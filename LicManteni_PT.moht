@@ -1,0 +1,93 @@
+<div class="MsoNormal">
+<table border="1" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="96">
+  <tr>
+    <td width="50%" style="border-style: none; border-width: medium" height="1">
+    </td>
+    <td width="50%" style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top: medium none #111111; border-bottom: medium none #111111" height="1"></td>
+  </tr>
+  <tr>
+    <td width="50%" style="border-style: none; border-width: medium" height="96">
+&nbsp;<p>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Data: 
+@FECHA@<b><br />
+</b></font></span><font face="Arial, Helvetica, sans-serif" size="2"><br />
+</font>
+    <span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none">
+Caro cliente:</span><font size="2"><span style="font-family: Arial, Helvetica, sans-serif;"> </span>
+</font>
+    </p>
+</td>
+    <td width="50%" style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top: medium none #111111; border-bottom: medium none #111111" height="96"><a href="http://3.bp.blogspot.com/--UllnXVpf-U/UWvxcrEkZ9I/AAAAAAAAAU4/vo2nC5_SZSw/s1600/Logo+Medical+DISPENSER.jpg" imageanchor="1">
+    <img border="0" src="http://3.bp.blogspot.com/--UllnXVpf-U/UWvxcrEkZ9I/AAAAAAAAAU4/vo2nC5_SZSw/s200/Logo+Medical+DISPENSER.jpg" width="200" height="98" align="right" /></a></td>
+  </tr>
+</table>
+  <span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none">
+  Temos prazer em informar-lhe que a atualização das suas licenças</span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">@LICS@</font></span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+</font></span>
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Foi recebido com sucesso.</span><span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+</font></span></div>
+<div class="MsoNormal">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Lembre-se de que você tem que fazer a transferência do montante de @IMPTOT@€(@IMP@€ 
++ I.V.A.)&nbsp; indicando as suas licenças e o nome para que a atualização seja 
+processado.</span><font face="Arial, Helvetica, sans-serif" size="2"><div class="MsoNormal">
+<p>
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Os dados para esta transferência são os seguintes:</span></div>
+<div class="MsoNormal">
+Banco<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"> : 
+<b>@BANCO@</b></font></span></div>
+<div class="MsoNormal">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Número da Conta </span>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">:<b> @CUENTA@</b></font><o:p></o:p></span></div>
+<div class="MsoNormal">
+<b><span style="background: yellow; font-family: Arial, Helvetica, sans-serif; mso-highlight: yellow;">
+<font size="2"><br /></font></span></b></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Após a transferência, enviar-lhe-emos o seu as chaves de ativação em um prazo 
+máximo de dois dias úteis.</span></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Obrigado por sua confiança. </span>
+<p>
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Cumprimentos.</span><br />
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+</font>
+<strong><font size="2">FAGOR HEALTHCARE S.COOP.</font><o:p></o:p></strong></span></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+</font></span>
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Nota. -Para qualquer consulta ir para </span>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">&nbsp;<a href="mailto:info@fagorhealthcare.com"><font color="#000000">info@fagorhealthcare.com</font></a></font></span></div>
+<div class="MsoNormal">
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Os dados da farmácia :</span></p>
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Farmácia</span><span style="font-family: Arial, Helvetica, sans-serif"><font size="2">: </font>@FARMA@&nbsp; </span>
+    </p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="2"><span style="font-family: Arial, Helvetica, sans-serif">
+Titular/es : @TITULAR@</span></font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Endereço</span>: @DIR@</p>
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: arial; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 100; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: rgb(255, 255, 255)">
+Telefone</span>: @TELEF@</p>
+<p style="margin-top: 0; margin-bottom: 0">
+Email : @EMAIL@</p>
+</div>
+<div align="center" class="MsoNormal" style="text-align: center;">
+<span lang="EN-US"><span style="font-family: Arial, Helvetica, sans-serif;">
+<font size="2">Copyright ©FAGOR HEALTHCARE S.COOP.</font></span><o:p></o:p></span></div>

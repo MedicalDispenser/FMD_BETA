@@ -1,0 +1,178 @@
+************************************************** *************************************
+|||* VERSÕES *
+************************************************** *************************************
+
+Esta atualização contém melhorias e corrige diversos problemas como indicado
+a seguir:
+
+
+|*|versão 1.0.14.1623
+
+* Nova tela para atribuir os medicamentos para pacientes 
+* Nova possibilidade de entrar data de início cálculo no cálculo das necessidades 
+* Nova lista de medicações necessárias no ecrã do cálculo das necessidades 
+* Nova possibilidade de inserir comentários no 
+* Novas cargas de possibilidade de fazer cargas de mais de uma embalagem por paciente em cargas por categoria 
+* Nova possibilidade de definicir mais do que um tratamento por paciente e o medicamento
+
+|*|versão 1.0.12.1590
+
+* As mudanças no design dos rótulos
+
+|*|versão 1.0.12.1444
+
+* Nova possibilidade de selecionar os pacientes para seu nome 
+* Novos campos para a inserção Numerto cartão de saúde  do paciente 
+* Nova capacidade para imprimir os modelos de documentos do Word 
+* Novo browser para obter as embalagens blister entregue por categoria
+* Nova opção para habilitar ou desabilitar os tratamentos 
+* Nova possibilidade de tirar recursos de cápsulas e coprimidos
+
+|*|versão 1.0.11.1414
+ 
+* Nova possibilidade de entrar no código retorna de medicamentos devolvidos 
+
+
+|*| Versão 1.0.10.1348
+
+* Resolver o problema da gestão interna do software
+
+|*| Versão 1.0.10.1314
+
+* Nova Carga manual
+* Nova possibilidade de validar cargas
+* Nova possibilidade de fazer cargas de menos de uma semana
+* Nova possibilidade de definir os tratamentos de 1/3 e 2/3
+* Nova consulta lista de tratamentos históricos 
+* nova possibilidade de se obter tratamentos pos categorias 
+* novas listagens de Mar consulta de tratamentos de pacientes
+* Possibilidade de continuar a fazer as cargas por categorias, apesar do fato de que a máquina não está em estado de espera para ser carregado
+
+|*| Versão 1.0.9.1242
+
+* New shareware capacidade Get 15 dias
+* Novo capacidade para indicar que uma droga não é enblistable emblistable para um paciente
+* Novo capacidade de classificar colunas clicando duas vezes sobre o texto da coluna
+* Novo capacidade de atualizar o inventário a partir da tela de upload, clicando duas vezes sobre o medicamento desejado
+* Novo capacidade de consulta e drogas inventário
+* Novo capacidade de calcular as necessidades de drogas antes de cargas futuras
+* Novos medicamentos podem atribuir o mesmo lote e validade para pacientes que necessitam de Alloi eles.
+* Limpa New possibilidade de cargas transportadas.
+* Nova possibilidade de criar manualmente medicamentos Direction Shop. Essas cores indicam emblistables medicamentos definidos cone e não emblistables
+* Nova lista indicando para cada blister albeolo lote e validade na droga.
+* Novos anúncios visualização em tela com possibilidade de enviar e-mails da lista em formato PDF, bem como listagens cuardar em PDF, Excel ou RTF
+* New salvaguarda das informações, mantendo uma cópia de cada dia da semana
+* Corrigido o problema pacientos apagar quando tiveram cargas tratamentos realizados ou atribuídos
+* Resolver o problema da quantidade de droga na outra receita pedido aparecien bolha no momento da entrega, Quando o tratamento foi definido em porções
+* Resolver o problema da consulta de rastreabilidade de medicamentos desempenho
+
+
+|*| Versão 1.0.6.1138
+
+* Novo modelo MD-m.001 tag
+
+
+|*| Versão 1.0.6.1114
+
+* Alterações na concepção do rótulo
+
+
+|*| Versão 1.0.6.1098
+
+* Resolver o problema dos indicadores de gestão de estoque e fotografia no Blister
+* Adicione traduções pendentes
+
+|*| Versão 1.0.6.1062
+
+* Nova funcinalidad gerir o tratamento histórico de um paciente
+* Não mostrar dados de inventário em países sem drogas por pessoas (United Kingdom)
+* Corrigido o problema Formato de data
+* Nova tela para verificar os parâmetros da máquina
+
+|*| Versão 1.0.5.1047
+
+* Resolver o problema do parâmetro PRO cargas quando ativado
+* Corrigido o problema da droga códigos italianos
+
+|*|Versão 1.0.5.1018
+
+* Nova possibilidade de encargos por categoria. Enquanto a versão UPC da máquina seja maior do que 2,0
+* A habilidade para obter Nova por categoria, os pacientes que faltam medicamentos em falta ou drogas a uma carga por categoria por categoria
+* Resolver o problema de notas longas e tratamentos alos add
+* A habilidade para selecionar Nova processamento de linguagem
+* A habilidade Novo para selecionar o país para baixar os arquivos de Medicamentos
+* A habilidade Novo para imprimir o nome e número de telefone em rótulos Blister GP
+
+
+|*|Versão 1.0.4.984
+
+* A habilidade Novo para fazer entregas usando bolhas de armas leitor
+* A habilidade Novo para imprimir cartões de paciente
+* A habilidade Novo para inserir descrições de medicamentos personalizados
+
+
+|*|Versão 1.0.3.955
+
+* Solução de problemas de impressão das listagens
+* A habilidade Novo para filtrar por categorias em Gerenciar / pedido / CARGAS.
+
+
+|*|Versão 1.0.3.945
+
+* Nova definição de posologia semanal
+* Nova capacidade de criar e definir medicamentos e substâncias activas
+* A capacidade de atribuir Nova tratamentos ativos
+* A capacidade de atribuir Nova droga ativa nos estoques.
+* A possibilidade de rastreabilidade Nova droga atribuído ao ativo
+* A habilidade Novo para consulta atribuída a droga ativa em rótulos
+* A habilidade para acessar Novo SPD gerstion de um paciente da lista de pacientes
+* Solução de consultar dois lotes rastreabilidade diferente quando porções
+* Mudar critérios carregamento de drogas. Torna-se drogas para menores de carga maior
+* Solução de problemas de atualização do inventário de uma droga que não tem tratamento
+
+
+|*|Versão 1.0.0.918
+
+* Nova possibilidade de não tomar medicação inventário
+* Novas definições de dosagens repetidas
+    - Aumentar dias repetição ilimitada
+    - Definir dia de dosagem de saída n n meticamentos dias de descanso
+* Resolver o problema de rastreabilidade de cargas de seleção que teve mais de um lote
+Solução * Não imprimir etiquetas de lote e validade preferências se não for exigido pela introdução deste.
+* Solução de imprimir a etiqueta mesmo no final da carga
+
+|*|Versão 1.0.0.879
+
+* Corrigido um problema quando uma droga bem definido indicado como mal definida
+  cargas na tela
+
+|*|Versão 1.0.0.876
+
+* Lote de impressão e de validade dos fármacos incluídos na carga
+* Corrigido um problema quando uma droga vai para emblistable não emblistable
+* Corrigido um problema de atualização do inventário com decimais para usar porções
+* Corrigido um problema ao imprimir DNI repetido sem ter um novo paciente
+  salvo anteriormente
+* Corrigido um problema quando não há carga para transportar almofadas para uma das
+  drogas
+* Corrigido um problema de envio de e-mail de tela de preferências sab
+* Corrigido um problema após a exclusão de auditoria de um paciente
+* Maior confiabilidade no processo de actualização do firmware da máquina
+* Nova configuração de IP do equipamento de modo a incluir, se necessário, DNS
+* Impressão de lotes e datas de validade de cargas rótulos
+
+|*|Versão 1.0.0.834
+
+* Corrigido um problema que a máquina se conecta automaticamente para programar
+* Corrigido um problema que não detectar que a máquina foi desligada da
+  carregamento de tela
+* Enviar os detalhes das actualizações aplicadas ao programa
+* Melhor desempenho e confiabilidade do banco de dados
+* Sistema de Registro máquina de FHC, a fim de usar o programa
+* Sistema de proteção contra cópia de software que requer que uma máquina tem
+  conectado e registrado para executar o programa
+* Corrigido o problema com a impressão de etiquetas de cargas de consulta
+* Novo campo para digitar a dosagem farmacêutica no rótulo
+* Incluir assinatura do farmacêutico na lista de tratamentos
+
+

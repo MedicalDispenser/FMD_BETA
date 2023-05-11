@@ -1,0 +1,80 @@
+<div class="MsoNormal">
+<table border="1" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" height="96">
+  <tr>
+    <td width="50%" style="border-style: none; border-width: medium" height="1">
+    </td>
+    <td width="50%" style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top: medium none #111111; border-bottom: medium none #111111" height="1"></td>
+  </tr>
+  <tr>
+    <td width="50%" style="border-style: none; border-width: medium" height="96">
+&nbsp;<p>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Fecha: @FECHA@<b><br />
+</b></font></span><font size="2"><font face="Arial, Helvetica, sans-serif"><br />
+</font>
+<span style="font-family: Arial, Helvetica, sans-serif;">Estimado cliente: </span>
+</font>
+    </p>
+</td>
+    <td width="50%" style="border-left-style: none; border-left-width: medium; border-right-style: none; border-right-width: medium; border-top: medium none #111111; border-bottom: medium none #111111" height="96"><font face="Arial, Helvetica, sans-serif" size="2">
+    </font><a href="http://3.bp.blogspot.com/--UllnXVpf-U/UWvxcrEkZ9I/AAAAAAAAAU4/vo2nC5_SZSw/s1600/Logo+Medical+DISPENSER.jpg" imageanchor="1">
+    <img border="0" src="http://3.bp.blogspot.com/--UllnXVpf-U/UWvxcrEkZ9I/AAAAAAAAAU4/vo2nC5_SZSw/s200/Logo+Medical+DISPENSER.jpg" width="200" height="98" align="right" /></a></td>
+  </tr>
+</table>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Nos es grato comunicarle que la actualización de sus licencias&nbsp;</font></span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">@LICS@</font></span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />ha
+sido recibida correctamente.&nbsp;<br />
+</font></span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Recuerde que ha de realizar una transferencia por importe
+de <b>@IMPTOT@€</b>(@IMP@€ + I.V.A.) indicando sus licencias &nbsp;y nombre para que su
+actualización&nbsp; sea procesada.</font></span><font face="Arial, Helvetica, sans-serif" size="2"><div class="MsoNormal">
+<p>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Los datos para dicha transferencia son:
+</font> </span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Banco : 
+<b>@BANCO@</b></font></span></div>
+<div class="MsoNormal">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Número de Cuenta:<b> @CUENTA@</b></font><o:p></o:p></span></div>
+<div class="MsoNormal">
+<b><span style="background: yellow; font-family: Arial, Helvetica, sans-serif; mso-highlight: yellow;">
+<font size="2"><br /></font></span></b></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Una vez realizada la
+transferencia, le enviaremos sus claves de activación en un máximo de dos días
+laborables.</font></span></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2">Muchas gracias por su confianza. <br />
+Atentamente.</font></span><font face="Arial, Helvetica, sans-serif" size="2"><br />
+</font>
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+</font>
+<strong><font size="2">FAGOR HEALTHCARE S.COOP.</font><o:p></o:p></strong></span></div>
+<div class="MsoNormal" style="margin-bottom: 12.0pt;">
+<span style="font-family: Arial, Helvetica, sans-serif;"><font size="2"><br />
+<strong>Nota.-</strong>Para cualquier
+consulta diríjase a <a href="mailto:info@fagorhealthcare.com">info@fagorhealthcare.com</a></font></span></div>
+<div class="MsoNormal">
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: Arial, Helvetica, sans-serif; font-weight:700"><font size="2">
+Datos de la Farmacia :</font></span></p>
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-family: Arial, Helvetica, sans-serif"><font size="2">Farmacia 
+: </font>@FARMA@&nbsp; </span>
+    </p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="2"><span style="font-family: Arial, Helvetica, sans-serif">
+Titular/es : @TITULAR@</span></font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+Dirección : @DIR@</p>
+<p style="margin-top: 0; margin-bottom: 0">
+Teléfono : @TELEF@</p>
+<p style="margin-top: 0; margin-bottom: 0">
+Email : @EMAIL@</p>
+</div>
+<div align="center" class="MsoNormal" style="text-align: center;">
+<span lang="EN-US"><span style="font-family: Arial, Helvetica, sans-serif;">
+<font size="2">Copyright ©FAGOR HEALTHCARE S.COOP.</font></span><o:p></o:p></span></div>

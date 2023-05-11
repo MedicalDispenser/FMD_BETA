@@ -1,0 +1,176 @@
+***************************************************************************************
+|||* VERSIONES                                                                           *
+***************************************************************************************
+
+Esta actualización contiene mejoras y soluciona varios problemas como se indica a
+continuacion:
+
+|*|Version 1.0.14.1623
+
+* Nueva Pantalla para asignar medicamentos a Pacientes
+* Nueva posibilidad de introducir fecha inicio de calculo en calculo de necesidades
+* Nuevo listado de medicamentos necesario en la pantalla de calculo de necesidades
+* Nueva posibilidad de introducir comentarios en las cargas
+* Nueva de posibilidad de realizar cargas de mas de un blister por paciente en cargas por categoria
+* Nueva posibilidad de definicir mas de un tratamiento por paciente y medicamento
+
+ 
+|*|Version 1.0.12.1590
+
+* Nueva Integracion aplicación Cartera servicios COFM Madrid 
+* Cambio en el diseño de etoquetas
+
+|*|Version 1.0.12.1444
+
+* Nueva posibilidad de seleccionar pacientes por su nombre
+* Nuevos campos para Introducir Numerto de tarjeta sanitaria y NSS en la ficha del paciente
+* Nueva posibilidad de Imprimir plantillas de documentos WORD
+* Nuevo listado para obtener los blisters entregados por categoria
+* Nueva posibilidad de activar o desactivar Tratamientos
+* Nueva posibilidad de dibujar caracteristicas de los coprimidos y las capsulas
+
+|*|Version 1.0.11.1414
+* Nueva posibilidad de introducir en retornos el codigo de medicamento retornado
+
+|*|Version 1.0.10.1348
+* Solucionar problema de gestion interna del software
+
+|*|Version 1.0.10.1314
+* Nueva Carga Manual
+* Nueva posibilidad de Validar cargas
+* Nueva posibilidad de hacer cargas inferiores a una semana
+* Nueva posibilidad de definir tratamientos de 1/3 y 2/3
+* Nuevo listado consulta deol historico de tratamientos
+* Nueva posibilidad de sacar tratamientos pos categorias
+* Nuevos listados Mar-Chart de consulta de tratamientos de pacientes 
+* Posibilidad de seguir haciendo cargas por categorias a pesar de que la maquina no este en espera de carga
+
+|*|Version 1.0.9.1242
+
+* Nueva posibilidad de Obtener una version de prueba de 15 dias
+* Nueva posibilidad de indicar que un medicamento enblistable no es emblistable para un paciente
+* Nueva posibilidad de ordenar columnas haciendo doble click en el literal de la columna
+* Nueva posibilidad de actualizar el inventario desde la pantalla de cargas, haciendo doble click sobre el medicamento deseado
+* Nueva posibilidad de consultar y listar inventarios de medicamentos 
+* Nueva posibilidad de calcular necesidades de medicamentos antes cargas futuras
+* Nueva posibilidad de asignar medicamentos del mismo lote y caducidad a distinton pacientes que tengan necesidad de ellos.
+* Nueva posibilidad de Borra cargas realizadas.
+* Nueva Posibilidad de Flitrar medicamentos creados manualmente. Indicar por colores aquellos medicamentos definidos cono emblistables y No emblistables
+* Nuevo listado indicando por cada albeolo del blister el lote y la caducidad del medicamento incluido en el.
+* Nueva pantalla de previsualización de listados, con posibilidad de envia por correo el listado en formato PDF, asi como de cuardar los listados en formatos PDF, Excel o RTF
+* Nueva salvaguarda de informacion, guardando una copia de cada dia de la semana
+* Solucionar el problema de borrado de pacientos cuando estos tenian cargas realizadas o tratamientos asignados
+* Solucionar el problema de la cantidad de medicamentos a pedir en otra receta que aparecien en entrega de blister, Cuando en tratamiento estaba definido en porciones
+* Solucionar el problema de rendimiento de la consulta de la trazabilidad de medicamento
+
+
+
+
+|*|Version 1.0.6.1138
+
+* Nuevo modelo etiqueta MD-m.001
+
+
+|*|Version 1.0.6.1114
+
+* Cambios en el diseño de la etiqueta
+
+
+|*|Version 1.0.6.1098
+
+* Solucionar el problema de los indicadores de Gestion Inventario y fotografia en el Blister
+
+|*|Version 1.0.6.1062
+
+* Nueva funcinalidad de gestionar el historico de tratamientos de un paciente
+* No visualizar datos de Inventario en paises que no tienen medicamentos por personas (Reino Unido)
+* Solucionar el problema de Formato de Fecha
+* Nueva pantalla para consultar parametros de la maquina 
+
+
+
+|*|Version 1.0.5.1047
+
+*Solucionar el problema de cargas cuando parametro PRO activado
+
+|*|Version 1.0.5.1018
+
+* Nueva posibilidad de hacer cargas por categoría. Siempre y cuando la version uPC de la maquina se a superior al 2.0
+* Nueva posibilidad de obtener por categoria, pacientes a los que les faltan medicamentos o medicamentos que faltan para hacer una carga por categoria por categoria
+* Solucion del problema de añadir notas largas e alos tratamientos
+* Nueva posibilidad de seleccionar Idioma de tratamiento
+* Nueva posibilidad de seleccionar el pais para descarga el fichero de Medicamentos
+* Nueva posibilidad de imprimir nombre y telefono del medico de cabecera en etiquetas del Blister
+
+
+|*|Version 1.0.4.984
+
+* Nueva posibilidad de hacer entregas de blisters utilizando pistola lectora
+* Nueva posibilidad de imprimir tarjetas de pacientes
+* Nueva posibilidad de introducir descripciones de medicamentos personalizados
+
+
+|*|Version 1.0.3.955
+
+* Solucion del problema de Impresion de listados
+* Nueva posibilidad de filtrar por categorías en ADMINISTRAR/CONSULTAS/CARGAS.
+
+
+|*|Version 1.0.3.945
+
+* Nueva definicion de posologia Semanal
+* Nueva posibilidad de crear y definir medicamentos y principios activos
+* Nueva posibilidad de asignar principios activos a tratamientos
+* Nueva posibilidad de asignar medicamento a principio activo en inventarios.
+* Nueva posibilidad de trazabilidad de medicamentos asignados a principios activos
+* Nueva posibilidad de consultar medicamentos asignados a principios activos en etiquetas
+* Nueva posibilidad de acceder a gerstion de SPD de un paciente desde la lista de pacientes
+* Solucion del problema en consultar trazabilidad de dos lotes distintos cuando son porciones
+* Cambio de criterio de carga de medicamentos. Se pasa a cargar medicamentos de menor tamaño a mayor tamaño
+* Solucion del problema de actualizar inventario a un medicamento que no tiene tratamiento
+
+
+|*|Version 1.0.0.918
+
+* Nueva Posibilidad de no llevar inventario de medicamentos
+* Nuevas definiciones de repeticiones de posologias
+    - Incrementar repeticion a dias ilimitados
+    - Definir posologia de n dias con toma de meticamentos y n dias de descanso
+* Solucion del problema de seleccionar en trazabilidad cargas que tuvieran mas de un Lote
+* Solucion del problema no imprimir lote y caducidad en etiquetas si por preferencias no se requiere la introduccion de esta.
+* Solucion del Problema de impresion de la misma etiqueta al finalizar la carga
+
+|*|Version 1.0.0.879
+
+* Solucion de un problema cuando un medicamento bien definido indicaba como mal definido 
+  en la pantalla de cargas
+
+|*|Version 1.0.0.876
+
+* Impresion de lote y caducidad de los medicamentos incluidos en la carga
+* Solucion de un problema cuando un medicamento pasa de no emblistable a emblistable
+* Solucion de un problema al actualizar inventario con decimales al usar porciones
+* Solucion de un problema de DNI repetido al imprimir un nuevo paciente sin haberlo
+  guardado previamente
+* Solucion de un problema de carga cuando no hay pastillas a cargar para uno de los 
+  medicamentos 
+* Solucion de un problema al enviar correo desde pantalla PREFERENCIAS a SAT
+* Solucion de un problema de auditoria despues de borrar un paciente
+* Mejora de la fiabilidad en el proceso de actualización de firmware de la maquina
+* Nueva configuración IP de la maquina para incluir DNS en caso que sea necesario
+* Impresion de lotes y fechas de caducidad en etiquetas de cargas
+
+|*|Version 1.0.0.834
+
+* Solucion de un problema que se conecta maquina automaticamente a programa
+* Solución de un problema que no detecta que se ha desconectado la maquina en la
+  pantalla de carga
+* Presentar la información detallada de las actualizaciones aplicada al programa
+* Mejora del rendimiento y fiabilidad de la base de datos
+* Sistema de Registro de la maquina en FHC para poder usar el programa
+* Sistema de Protección anticopia del software que obliga a que haya una maquina
+  conectada y registrada para que funcione el programa
+* Solución de problema en la impresión de etiquetas desde consulta de CARGAS
+* Nuevo campo para que el farmaceutico escriba la posologia en la etiqueta
+* Incluir firma del farmaceutico en el listado de tratamientos
+

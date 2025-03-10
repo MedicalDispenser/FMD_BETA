@@ -1,0 +1,1323 @@
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="http://fagorhealthcare.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script>
+	<!-- This site is optimized with the Yoast SEO plugin v24.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página no encontrada | Fagor Healthcare</title>
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:title" content="Página no encontrada | Fagor Healthcare" />
+	<meta property="og:site_name" content="Fagor Healthcare" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://fagorhealthcare.com/#website","url":"https://fagorhealthcare.com/","name":"Fagor Healthcare","description":"","publisher":{"@id":"https://fagorhealthcare.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fagorhealthcare.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"es"},{"@type":"Organization","@id":"https://fagorhealthcare.com/#organization","name":"Fagor Healthcare","url":"https://fagorhealthcare.com/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://fagorhealthcare.com/#/schema/logo/image/","url":"","contentUrl":"","caption":"Fagor Healthcare"},"image":{"@id":"https://fagorhealthcare.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Fagor Healthcare &raquo; Feed" href="https://fagorhealthcare.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fagor Healthcare &raquo; Feed de los comentarios" href="https://fagorhealthcare.com/comments/feed/" />
+<meta content="Divi v.4.23.1" name="generator"/><link rel='stylesheet' id='wp-block-library-css' href='http://fagorhealthcare.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cmplz-general-css' href='http://fagorhealthcare.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1741274831' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<link rel='stylesheet' id='divi-style-css' href='http://fagorhealthcare.com/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' type='text/css' media='all' />
+<script type="text/javascript" src="http://fagorhealthcare.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://fagorhealthcare.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://fagorhealthcare.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fagorhealthcare.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<!-- Meta Pixel Code -->
+<script data-service="facebook" data-category="marketing" type="text/plain">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js?v=next');
+</script>
+<!-- End Meta Pixel Code -->
+
+          <script data-service="facebook" data-category="marketing" type="text/plain">
+            var url = window.location.origin + '?ob=open-bridge';
+            fbq('set', 'openbridge', '498266962496225', url);
+          </script>
+        <script data-service="facebook" data-category="marketing" type="text/plain">fbq('init', '498266962496225', {}, {
+    "agent": "wordpress-6.7.2-4.1.1"
+})</script><script data-service="facebook" data-category="marketing" type="text/plain">
+    fbq('track', 'PageView', []);
+  </script><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWTTC49');</script>
+<!-- End Google Tag Manager --><style id="et-divi-customizer-global-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:20px}.et_pb_slide_content,.et_pb_best_value{font-size:22px}body{color:#0a0a0a}h1,h2,h3,h4,h5,h6{color:#0a0a0a}body{line-height:2em}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#2360a4}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:rgba(255,255,255,0.6)}.et_search_form_container input::-moz-placeholder{color:rgba(255,255,255,0.6)}.et_search_form_container input::-webkit-input-placeholder{color:rgba(255,255,255,0.6)}.et_search_form_container input:-ms-input-placeholder{color:rgba(255,255,255,0.6)}#top-menu li a{font-size:12px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:12px!important}.footer-widget .et_pb_widget div,.footer-widget .et_pb_widget ul,.footer-widget .et_pb_widget ol,.footer-widget .et_pb_widget label{line-height:1.7em}#footer-widgets .footer-widget li:before{top:14px}#et-footer-nav .bottom-nav li.current-menu-item a{color:#2ea3f2}#footer-info{font-size:12px}#footer-bottom .et-social-icon a{font-size:21px}body .et_pb_bg_layout_light.et_pb_button:hover,body .et_pb_bg_layout_light .et_pb_button:hover,body .et_pb_button:hover{border-radius:0px}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{line-height:1.2em}@media only screen and (min-width:981px){#logo{max-height:55%}.et_pb_svg_logo #logo{height:55%}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:11.88px}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:rgba(255,255,255,0.6)!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:rgba(255,255,255,0.6)!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:rgba(255,255,255,0.6)!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:rgba(255,255,255,0.6)!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:50px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:43px}h3{font-size:36px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:30px}h5{font-size:26px}h6{font-size:23px}.et_pb_slide_description .et_pb_slide_title{font-size:76px}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:26px}	h1,h2,h3,h4,h5,h6{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}.et-social-vimeo a.icon:before{content:"e09c"}.floatleft{float:left}.dh-plus.et_pb_number_counter .percent-value:before{content:'+';font-size:40px;top:-16px;left:0px;position:relative;margin-right:8px}.dh-plus-mini.et_pb_number_counter .percent-value:before{content:'+';font-size:30px;top:-10px;left:0px;position:relative;margin-right:8px}.et-social-vimeo a.icon:before{content:"\e09c"}.floatleft{float:left}</style></head>
+<body data-cmplz=1 class="error404 et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter et_pb_gutters3 et_left_sidebar et_divi_theme et-db">
+
+<!-- Meta Pixel Code -->
+<noscript>
+<div class="cmplz-placeholder-parent"><img class="cmplz-placeholder-element cmplz-image" data-category="marketing" data-service="general" data-src-cmplz="https://www.facebook.com/tr?id=498266962496225&amp;ev=PageView&amp;noscript=1" height="1" width="1" style="display:none" alt="fbpx"
+ src="http://fagorhealthcare.com/wp-content/plugins/complianz-gdpr/assets/images/placeholders/default-minimal.jpg"  /></div>
+</noscript>
+<!-- End Meta Pixel Code -->
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://fagorhealthcare.com/">
+						<img src="https://fagorhealthcare.com/wp-content/uploads/2022/10/Logo-Fagor.png" width="93" height="43" alt="Fagor Healthcare" id="logo" data-height-percentage="55" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-944"><a href="https://fagorhealthcare.com/">Particulares</a></li>
+<li id="menu-item-946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946"><a href="https://fagorhealthcare.com/medical-dispenser/">Farmacias – Medical Dispenser</a></li>
+<li id="menu-item-943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-943"><a href="https://fagorhealthcare.com/empresas/">Empresas</a></li>
+<li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="https://fagorhealthcare.com/fagor-healthcare/">Sobre nosotros</a></li>
+<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://fagorhealthcare.com/blog/">Noticias</a></li>
+<li id="menu-item-1352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1352"><a href="https://fagorhealthcare.com/faq/">FAQ</a></li>
+<li id="menu-item-1353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353"><a href="https://fagorhealthcare.com/contacto/">Contacto</a></li>
+<li id="menu-item-5975" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-5975"><a href="#pll_switcher">Es</a></li>
+</ul>						</nav>
+					
+					
+					
+											<div id="et_top_search">
+							<span id="et_search_icon"></span>
+						</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seleccionar página</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+						<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://fagorhealthcare.com/">
+					<input type="search" class="et-search-field" placeholder="Búsqueda &hellip;" value="" name="s" title="Buscar:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+					</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+				<article id="post-0" class="et_pb_post not_found">
+					<div class="entry">
+	<h1 class="not-found-title">No se encontraron resultados</h1>
+	<p>La página solicitada no pudo encontrarse. Trate de perfeccionar su búsqueda o utilice la navegación para localizar la entrada.</p>
+</div>
+				</article>
+			</div>
+
+				<div id="sidebar">
+		<div id="search-2" class="et_pb_widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://fagorhealthcare.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Buscar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Buscar" />
+				</div>
+			</form></div><div id="block-15" class="et_pb_widget widget_block"><h4 class="widgettitle">Entradas recientes</h4><div class="wp-widget-group__inner-blocks"><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://fagorhealthcare.com/impacto-del-cambio-climatico-en-la-salud-de-las-personas-mayores/">Impacto del Cambio Climático en la Salud de las Personas Mayores</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://fagorhealthcare.com/la-nueva-revolucion-del-envejecimiento-activo/">La Nueva Revolución del Envejecimiento Activo: Tendencias y Hábitos para una Longevidad Saludable</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://fagorhealthcare.com/el-poder-de-las-relaciones-intergeneracionales-beneficios-de-conectar-con-otras-generaciones/">El Poder de las Relaciones Intergeneracionales: Beneficios de Conectar con Otras Generaciones</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://fagorhealthcare.com/el-envejecimiento-saludable-claves-para-una-vida-plena-en-personas-mayores/">El Envejecimiento Saludable: Claves para una Vida Plena en personas mayores</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://fagorhealthcare.com/la-importancia-de-una-dieta-equilibrada-en-la-tercera-edad/">La importancia de una dieta equilibrada en la tercera edad: Nutrientes esenciales y consejos dietéticos</a></li>
+</ul></div></div><div id="block-17" class="et_pb_widget widget_block"><h4 class="widgettitle">Categorías</h4><div class="wp-widget-group__inner-blocks"><ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-29"><a href="https://fagorhealthcare.com/adherencia-al-tratamiento/">Adherencia al Tratamiento</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="https://fagorhealthcare.com/coste-del-spd/">Coste del SPD</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://fagorhealthcare.com/eventos/">Eventos</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="https://fagorhealthcare.com/videos-y-articulos-de-interes/">Info de Interés</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://fagorhealthcare.com/noticias/">Noticias</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="https://fagorhealthcare.com/noticias-farmacia/">Noticias farmacia</a>
+</li>
+	<li class="cat-item cat-item-202"><a href="https://fagorhealthcare.com/poblacion-mayor/">Población mayor</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://fagorhealthcare.com/productos/">Productos</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://fagorhealthcare.com/que-es-el-spd-noticias/">Qué es el SPD</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://fagorhealthcare.com/sin-categoria/">Sin categoría</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://fagorhealthcare.com/spd/">SPD</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="https://fagorhealthcare.com/tecnologia-e-innovacion/">Tecnologia e Innovación</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://fagorhealthcare.com/testimonios-medical-dispenser/">Testimonios Medical Dispenser</a>
+</li>
+</ul></div></div>	</div>
+		</div>
+	</div>
+</div>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer-es" class="bottom-nav"><li id="menu-item-7633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7633"><a href="https://fagorhealthcare.com/">Particulares</a></li>
+<li id="menu-item-7634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7634"><a href="https://fagorhealthcare.com/medical-dispenser/">Farmacias – Medical Dispenser</a></li>
+<li id="menu-item-7635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7635"><a href="https://fagorhealthcare.com/empresas/">Empresas</a></li>
+<li id="menu-item-7636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7636"><a href="https://fagorhealthcare.com/fagor-healthcare/">Sobre nosotros</a></li>
+<li id="menu-item-7637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7637"><a href="https://fagorhealthcare.com/blog/">Noticias</a></li>
+<li id="menu-item-7638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7638"><a href="https://fagorhealthcare.com/faq/">FAQ</a></li>
+<li id="menu-item-7639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7639"><a href="https://fagorhealthcare.com/contacto/">Contacto</a></li>
+<li id="menu-item-9117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9117"><a href="https://fagorhealthcare.com/aviso-legal/">Aviso legal y política de privacidad</a></li>
+<li id="menu-item-9232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9232"><a href="https://fagorhealthcare.com/manuales-tecnicos/">Manuales técnicos</a></li>
+</ul>					</div>
+				</div>
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="https://www.facebook.com/fagorhealthcare" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>X</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="https://instagram.com/fagorhealthcare" class="icon">
+			<span>Instagram</span>
+		</a>
+	</li>
+
+</ul><div id="footer-info">Fagor Healthcare © 2023  
+</div>					</div>
+				</div>
+			</footer>
+		</div>
+
+
+	</div>
+
+	
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 bottom-right-view-preferences optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gestionar el consentimiento de las cookies</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Cerrar ventana">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Funcional</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin" tabindex="0"><span class="screen-reader-text">Funcional</span></label>
+								</span>
+								Siempre activo							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferencias</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin" tabindex="0"><span class="screen-reader-text">Preferencias</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">El almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Estadísticas</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin" tabindex="0"><span class="screen-reader-text">Estadísticas</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos.</span>
+					<span class="cmplz-description-statistics-anonymous">El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin un requerimiento, el cumplimiento voluntario por parte de tu Proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarte.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Administrar opciones</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gestionar los servicios</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gestionar {vendor_count} proveedores</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Leer más sobre estos propósitos</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Aceptar</button>
+		<button class="cmplz-btn cmplz-deny">Denegar</button>
+		<button class="cmplz-btn cmplz-view-preferences">Ver preferencias</button>
+		<button class="cmplz-btn cmplz-save-preferences">Guardar preferencias</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Ver preferencias</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gestionar consentimiento</button>
+
+</div>    <!-- Meta Pixel Event Code -->
+    <script type='text/javascript'>
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if( "fb_pxl_code" in event.detail.apiResponse){
+            eval(event.detail.apiResponse.fb_pxl_code);
+        }
+        }, false );
+    </script>
+    <!-- End Meta Pixel Event Code -->
+        <div id='fb-pxl-ajax-code'></div><style id="et-builder-googlefonts-inline">/* Original: https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin,latin-ext&#038;display=swap *//* User Agent: Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) Safari/538.1 Daum/4.1 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0ow.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aX8.ttf) format('truetype');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aX8.ttf) format('truetype');}/* User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0oA.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXw.woff) format('woff');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXw.woff) format('woff');}/* User Agent: Mozilla/5.0 (Windows NT 6.3; rv:39.0) Gecko/20100101 Firefox/39.0 */@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: italic;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXZ0pg.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 100;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 200;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 300;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 500;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 600;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 800;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w3aXo.woff2) format('woff2');}@font-face {font-family: 'Montserrat';font-style: normal;font-weight: 900;font-display: swap;src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w3aXo.woff2) format('woff2');}</style><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWTTC49" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"http:\/\/fagorhealthcare.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/fagorhealthcare.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/fagorhealthcare.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"fe23e37e05","subscription_failed":"Por favor, revise los campos a continuaci\u00f3n para asegurarse de que la informaci\u00f3n introducida es correcta.","et_ab_log_nonce":"7dba99864e","fill_message":"Por favor, rellene los siguientes campos:","contact_error_message":"Por favor, arregle los siguientes errores:","invalid":"De correo electr\u00f3nico no v\u00e1lida","captcha":"Captcha","prev":"Anterior","previous":"Anterior","next":"Siguiente","wrong_captcha":"Ha introducido un n\u00famero equivocado de captcha.","wrong_checkbox":"Caja","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"","unique_test_id":"","ab_bounce_rate":"","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":"http:\/\/fagorhealthcare.com\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://fagorhealthcare.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="http://fagorhealthcare.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+<script type="text/javascript" src="http://fagorhealthcare.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"2237","version":"7.3.0","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/fagorhealthcare.com\/wp-json\/complianz\/v1\/","locale":"lang=es&locale=es_ES","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"14","cookie_path":"\/","categories":{"statistics":"estad\u00edsticas","marketing":"m\u00e1rketing"},"tcf_active":"","placeholdertext":"Haz clic para aceptar cookies de marketing y permitir este contenido","css_file":"https:\/\/fagorhealthcare.com\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=2237","page_links":{"eu":{"cookie-statement":{"title":"Pol\u00edtica de cookies ","url":"https:\/\/fagorhealthcare.com\/politica-de-cookies-ue\/"},"privacy-statement":{"title":"Pol\u00edtica de privacidad","url":"https:\/\/fagorhealthcare.com\/politica-privacidad\/"},"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"us":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"uk":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"ca":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"au":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"za":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}},"br":{"impressum":{"title":"Aviso legal","url":"https:\/\/fagorhealthcare.com\/aviso-legal\/"}}},"tm_categories":"1","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Haz clic para aceptar cookies de marketing y permitir este contenido"};
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="http://fagorhealthcare.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1741274832" id="cmplz-cookiebanner-js"></script>
+<script data-waitfor="maps.googleapis.com" data-service="google-maps" data-category="marketing" type="text/plain" id="cmplz-cookiebanner-js-after">
+/* <![CDATA[ */
+		
+			let cmplz_activated_divi_recaptcha = false;
+			document.addEventListener("cmplz_enable_category", function (e) {
+				if (!cmplz_activated_divi_recaptcha && (e.detail.category==='marketing' || e.detail.service === 'google-recaptcha') ){
+					cmplz_divi_init_recaptcha();
+				}
+			});
+
+			function cmplz_divi_init_recaptcha() {
+				if ('undefined' === typeof window.jQuery || 'undefined' === typeof window.etCore ) {
+					setTimeout(cmplz_divi_init_recaptcha, 500);
+				} else {
+					window.etCore.api.spam.recaptcha.init();
+					cmplz_activated_divi_recaptcha = true;
+				}
+			}
+		
+		
+		
+			let cmplz_activated_divi_maps = false;
+			document.addEventListener("cmplz_enable_category", function (e) {
+				if (!cmplz_activated_divi_maps && (e.detail.category==='marketing' || e.detail.service === 'google-maps') ){
+					cmplz_divi_init_map();
+				}
+			});
+
+			function cmplz_divi_init_map() {
+				if ('undefined' === typeof window.jQuery || 'undefined' === typeof window.et_pb_map_init ) {
+					setTimeout(cmplz_divi_init_map, 1000);
+				} else {
+					let map_container = jQuery(".et_pb_map_container");
+					map_container.each(function () {
+						window.et_pb_map_init(jQuery(this));
+						cmplz_activated_divi_maps = true;
+					})
+				}
+			}
+			setTimeout(cmplz_divi_init_map, 300);
+		
+
+		
+/* ]]> */
+</script>
+<script type="text/javascript">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=es; expires=" + expirationDate.toUTCString() + "; path=/; SameSite=Lax";
+			}());
+
+</script>
+</body>
+</html>
+M;6987025;Tramadol/paracetamol Aurobindo                  ;37,5 mg / 325 mg pel�cula EFG 20 comprimidos    ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7067535;Gliclazida Sandoz                               ;30 mg comprimidos lib. mod.efg 60 comprimidos   ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7104193;RAMIPRIL KRKA                                   ; 2,5 MG COMPRIMIDOS EFG , 28 comprimidos        ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7069430;AZITROMICINA BLUEPHARMA EFG                     ; 500 MG 3 COMPRIMIDOS RECUBIERTOS               ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7037187;BETAHISTINA AUROBINDO EFG                       ; 16 MG 30 COMPRIMIDOS                           ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;6882368;RIVASTIGMINA KERN PHARMA, 1,5 MG CAPSULAS DURAS ;                                                ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;6520918;MIRTAZAPINA ARISTO EFG                          ; (15 MG 30 COMPRIMIDOS RECUBIERTOS)             ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7063582;PREGABALINA HCS EFG                             ; (50 MG 56 CAPSULAS)                            ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7061915;DUTASTERIDA VIR EFG                             ; (0.5 MG 30 CAPSULAS BLANDAS)                   ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7067900;Nimvastid 4,5 mg                                ; capsulas duras EFG 56 c�psulas                 ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;7046653;FLUOXETINA AUROBINDO                            ; EFG 20 MG 60 CAPSULAS                          ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;1560308;UROSENS FORTE PLUS                              ;120 MG 14 CAPS                                  ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;2928398;AJO ARKO CAPSULAS                               ;330 MG 84 CAPSULAS                              ;0            ;0            ;0            ;0            ;0            ;0            ;
+M;1711847;NEURALEX 60 C�PSULAS                            ;                                                ;0            ;0            ;0            ;0            ;0            ;0            ;
+N;6504291;
+N;6504277;
+N;6504260;
+N;6543122;
+N;7605799;
+N;9764234;
+N;8327584;
+N;8322794;
+N;6786499;
+N;6946947;
+N;6946961;
+N;6946909;
+N;6946916;
+N;6947548;
+N;6947555;
+N;6947562;
+N;6947579;
+N;6947593;
+N;6947616;
+N;6947586;
+N;6632796;
+N;7047537;
+N;7047544;
+N;7223634;
+N;6632819;
+N;6727805;
+N;6651872;
+N;6984741;
+N;6724194;
+N;6724187;
+N;6922781;
+N;6922798;
+N;7041955;
+N;7041962;
+N;6987384;
+N;6987391;
+N;6990766;
+N;6990759;
+N;6990735;
+N;6974902;
+N;7018087;
+N;7023449;
+N;6857557;
+N;6857724;
+N;7053101;
+N;6928516;
+N;6971857;
+N;6971864;
+N;6680698;
+N;6680704;
+N;6971871;
+N;6971888;
+N;6680445;
+N;6680452;
+N;6986615;
+N;6986622;
+N;6942796;
+N;6646168;
+N;6646175;
+N;6646182;
+N;6646199;
+N;6545249;
+N;8144679;
+N;8144754;
+N;7694977;
+N;8515769;
+N;8516421;
+N;9930066;
+N;9108854;
+N;6562376;
+N;6562383;
+N;6546987;
+N;6547014;
+N;6547021;
+N;6560129;
+N;6991305;
+N;6615973;
+N;6615980;
+N;6615997;
+N;7674672;
+N;6799246;
+N;7052913;
+N;6675915;
+N;6676011;
+N;6650646;
+N;6930113;
+N;7058137;
+N;7058120;
+N;7058014;
+N;7058007;
+N;7058021;
+N;7058038;
+N;6983614;
+N;6983621;
+N;6983874;
+N;6983881;
+N;6957646;
+N;7009771;
+N;6522035;
+N;6610565;
+N;6610541;
+N;6810354;
+N;6810385;
+N;6810392;
+N;6737934;
+N;6738054;
+N;6738078;
+N;6868959;
+N;6868973;
+N;6985670;
+N;6558713;
+N;6558720;
+N;7025818;
+N;7410584;
+N;6561881;
+N;6652923;
+N;6652930;
+N;6652909;
+N;6652916;
+N;6616642;
+N;6616659;
+N;6616673;
+N;6708194;
+N;6614402;
+N;6614419;
+N;6644966;
+N;6967010;
+N;6967027;
+N;8499359;
+N;8500819;
+N;8645879;
+N;8646784;
+N;6812914;
+N;7042501;
+N;6819517;
+N;6819524;
+N;7019152;
+N;7069393;
+N;7019169;
+N;7069409;
+N;7019183;
+N;7069416;
+N;7101505;
+N;7101512;
+N;7078357;
+N;7078364;
+N;7107897;
+N;7097969;
+N;7047551;
+N;7141761;
+N;7154884;
+N;7154891;
+N;7028482;
+N;7028499;
+N;7028505;
+N;7028512;
+N;7049371;
+N;7049388;
+N;7023951;
+N;7023968;
+N;7204459;
+N;7200079;
+N;7244387;
+N;7223191;
+C;1.0;"659777.4";6597774;"aceclofenaco cinfa® 100 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;2.0;"659778.1";6597781;"aceclofenaco cinfa® 100 mg";"40 comp. recub. EFG";"40";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;3.0;"650429.1";6504291;"acetilcisteína cinfa® 100 mg";"30 sobres EFG";"30";"NO";"";"";"";"-";"";"";"Naranja";"Naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;4.0;"650427.7";6504277;"acetilcisteína cinfa® 200 mg";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"Naranja";"Naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;5.0;"650426.0";6504260;"acetilcisteína cinfa® 600 mg";"20 sobres EFG";"20";"NO";"";"";"";"";"";"";"Naranja";"Naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;6.0;"654312.2";6543122;"acetilcisteína cinfa® 600 mg";"20 comp. efervesc. EFG";"20";"NO";"SI";"";"1";"";"3";"NO";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;7.0;"760579.9";7605799;"aciclovir cinfa® 800 mg";"35 comp. disper. EFG";"35";"NO";"SI";"";"4";"";"2";"SI";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;8.0;"692432.7";6924327;"ácido acetilsalicílico cinfamed® 100mg";"30 comp. gastrorresistentes EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"blanco";"Blanco";"blanco";"9a";"clwhite";"clwhite";
+C;9.0;"662982.6";6629826;"ácido alendrónico semanal cinfamed® 70 mg";"4 comprimidos EFG";"4";"SI";"SI";"";"1";"";"3";"NO";"blanco";"Blanco";"blanco";"13 a";"clwhite";"clwhite";
+C;10.0;"681983.8";6819838;"ácido ibandrónico cinfa® 150 mg";"1 comprimido recub. EFG";"1";"SI";"SI";"";"4";"";"2";"NO";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;11.0;"681985.2";6819852;"ácido ibandrónico cinfa® 150 mg";"3 comprimidos recub. EFG";"3";"SI";"SI";"";"4";"";"2";"NO";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;12.0;"702109.4";7021094;"almotriptán cinfa 12,5 mg";"4 comprimidos recub. EFG";"4";"SI";"SI";"";"1";"";"2";"NO";"blanco";"Blanco";"blanco";"9a";"clwhite";"clwhite";
+C;13.0;"702110.0";7021100;"almotriptán cinfa 12,5 mg";"6 comprimidos recub. EFG";"6";"SI";"SI";"";"1";"";"2";"NO";"blanco";"Blanco";"blanco";"9a";"clwhite";"clwhite";
+C;14.0;"725577.2";7255772;"Alopurinol Cinfamed 100mg 100 comp EFG";"100 comp. EFG";"100";"SI";"SI";"";"1";"";"2";"NO";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;15.0;"725576.5";7255765;"Alopurinol Cinfamed 100mg 25 comp EFG";"25 comp. EFG";"25";"SI";"SI";"";"1";"";"2";"NO";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;16.0;"725578.9";7255789;"Alopurinol Cinfamed 300mg 30 comp EFG";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;17.0;"976423.4";9764234;"alprazolam cinfa® 0,25 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"Blanco";"blanco";"";"clwhite";"clwhite";
+C;18.0;"832758.4";8327584;"alprazolam cinfa® 0,5 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;19.0;"832279.4";8322794;"alprazolam cinfa® 1 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;20.0;"831586.4";8315864;"alprazolam cinfa® 2 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;21.0;"832188.9";8321889;"alprazolam cinfa® 2 mg";"50 comp. EFG";"50";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;22.0;"720018.5";7200185;"Ambroxol Cinfa 15 mg / 5 ml";"Jarabe. 200 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"";"";"-";"";"";"";
+C;23.0;"653398.7";6533987;"amlodipino cinfa® 10 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;24.0;"653397.0";6533970;"amlodipino cinfa® 5 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;25.0;"731461.5";7314615;"amlodipino/valsartán  cinfamed® 10 mg/160 mg";"28 comp recub EFG";"28";"SI";"SI";"";"0";"";"";"1";"Ocre";"Ocre";"Ocre";"";"$005A93B9";"$005A93B9";
+C;26.0;"731463.9";7314639;"amlodipino/valsartán  cinfamed® 5 mg/160 mg";"28 comp recub EFG";"28";"SI";"SI";"";"0";"";"";"1";"Ocre";"Ocre";"Ocre";"";"$005A93B9";"$005A93B9";
+C;27.0;"728795.7 ";7287957;"Amlodipino/valsartán/ HCTZ Cinfa";"5 mg/160 mg/12,5 mg 28 comp recub EFG";"28";"SI";"SI";"";"4";"";"1";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;28.0;"728793.3";7287933;"Amlodipino/valsartán/ HCTZ Cinfa";"10 mg/160 mg/25 mg 28 comp recub EFG";"28";"SI";"SI";"";"4";"";"2";"";"amarillo";"marrón";"amarillo-marrón";"";"$0088A7C6";"$0091FFFF";
+C;29.0;"728794.0";7287940;"Amlodipino/valsartán/ HCTZ Cinfa";"10 mg/320 mg/25 mg 28 comp recub EFG";"28";"SI";"SI";"";"4";"";"2";"";"amarillo";"marrón";"amarillo-marrón";"";"$0088A7C6";"$0091FFFF";
+C;30.0;"728796.4";7287964;"Amlodipino/valsartán/ HCTZ Cinfa ";"5 mg/160 mg/25 mg 28 comp recub EFG";"28";"SI";"SI";"";"4";"";"1";"";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;31.0;"728792.6";7287926;"Amlodipino/valsartán/ HCTZ Cinfa ";"10 mg/160 mg/12,5 mg 28 comp recub EFG";"28";"SI";"SI";"";"4";"";"2";"";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;32.0;"694688.6";6946886;"amoxicilina cinfa® 1 g";"20 comprimidos EFG";"20";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;33.0;"694689.3";6946893;"amoxicilina cinfa® 1 g";"30 comprimidos EFG";"30";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;34.0;"694690.9";6946909;"amoxicilina cinfa® 1 g";"20 sobres EFG";"20";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;35.0;"694691.6";6946916;"amoxicilina cinfa® 1 g";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;36.0;"694692.3";6946923;"amoxicilina cinfa® 500 mg";"20 cápsulas EFG";"20";"SI";"NO";"SI";"4";"";"2";"";"crema";"granate";"crema/granate";"7c";"$003E2AAB";"$00BFFFFF";
+C;37.0;"694693.0";6946930;"amoxicilina cinfa® 500 mg";"30 cápsulas EFG";"30";"SI";"NO";"SI";"4";"";"2";"";"crema";"granate";"crema/granate";"7c";"$003E2AAB";"$00BFFFFF";
+C;38.0;"694694.7";6946947;"amoxicilina cinfa® 500 mg";"20 sobres EFG";"20";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;39.0;"694696.1";6946961;"amoxicilina cinfa® 500 mg";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;40.0;"694754.8";6947548;"amoxicilina/ác. clavulánico cinfa® 250/62,5 mg";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"blanquecino";"blanquecino";"blanquecino";"";"$00F4F4F4";"$00F4F4F4";
+C;41.0;"694755.5";6947555;"amoxicilina/ác. clavulánico cinfa® 500/125 mg";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"blanquecino";"blanquecino";"blanquecino";"";"$00F4F4F4";"$00F4F4F4";
+C;42.0;"694756.2";6947562;"amoxicilina/ác. clavulánico cinfa® 875/125 mg";"20 sobres EFG";"20";"NO";"";"";"";"";"";"";"blanquecino";"blanquecino";"blanquecino";"";"$00F4F4F4";"$00F4F4F4";
+C;43.0;"694757.9";6947579;"amoxicilina/ác. clavulánico cinfa® 875/125 mg";"30 sobres EFG";"30";"NO";"";"";"";"";"";"";"blanquecino";"blanquecino";"blanquecino";"";"$00F4F4F4";"$00F4F4F4";
+C;44.0;"694759.3";6947593;"amoxicilina/ác. clavulánico cinfa® 875/125 mg";"20 comp. recub. EFG";"20";"NO";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;45.0;"694761.6";6947616;"amoxicilina/ác. clavulánico cinfa® 875/125 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;46.0;"694758.6";6947586;"amoxicilina/ác. clavulánico cinfamed® 500/125 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11b";"clwhite";"clwhite";
+C;47.0;"663279.6";6632796;"anastrozol cinfa® 1 mg";"28 comp. recub. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;48.0;"704606.6";7046066;"aripiprazol cinfa 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"2c (blanco-azul marino)";"$00CCCCFF";"$00CCCCFF";
+C;49.0;"704607.3";7046073;"aripiprazol cinfa 15 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"2c (verde caqui-azul marino)";"$0091FFFF";"$0091FFFF";
+C;50.0;"763609.0";7636090;"aripiprazol cinfa 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"2c (blanco-azul marino)";"$00CCCCFF";"$00CCCCFF";
+C;51.0;"704605.9";7046059;"aripiprazol cinfa 5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"1";"NO";"azul";"azul";"azul";"2c (blanco-azul marino)";"$00FFC184";"$00FFC184";
+C;52.0;"710789.7";7107897;"aripiprazol cinfa®";"1 mg/ml solucion oral EFG";"";"NO";"NO";"NO";"";"";"1";"NO";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;53.0;"704753.7";7047537;"aripiprazol flas cinfa 10 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"5a";"$00CCCCFF";"$00CCCCFF";
+C;54.0;"704754.4";7047544;"aripiprazol flas cinfa 15 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;55.0;"704755.1";7047551;"aripiprazol flas cinfa 30 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"1";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;56.0;"706374.2";7063742;"atenolol cinfa® 100 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;57.0;"706721.4";7067214;"atenolol cinfa® 100 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;58.0;"705756.7";7057567;"atenolol cinfa® 50 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;59.0;"706739.9";7067399;"atenolol cinfa® 50 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;60.0;"719098.1";7190981;"Atomoxetina cinfa 10 mg";"7 cáps.";"7";"SI";"NO";"SI";"4";"";"";"";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;61.0;"719099.8";7190998;"Atomoxetina cinfa 10 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;62.0;"719095.0";7190950;"Atomoxetina cinfa 100 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Marron";"marron";"Marron";"";"$0088A7C6";"$0088A7C6";
+C;63.0;"719102.5";7191025;"Atomoxetina cinfa 18 mg";"7 cáps.";"7";"SI";"NO";"SI";"4";"";"";"";"Amarillo";"Blanco";"Amarillo/Blanco";"";"clwhite";"$0091FFFF";
+C;64.0;"719103.2";7191032;"Atomoxetina cinfa 18 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Amarillo";"Blanco";"Amarillo/Blanco";"";"clwhite";"$0091FFFF";
+C;65.0;"719106.3";7191063;"Atomoxetina cinfa 25 mg";"7 cáps.";"7";"SI";"NO";"SI";"4";"";"";"";"Azul oscuro";"Blanco";"Azul oscuro/Blanco";"";"clwhite";"$008B0000";
+C;66.0;"719107.0";7191070;"Atomoxetina cinfa 25 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Azul oscuro";"Blanco";"Azul oscuro/Blanco";"";"clwhite";"$008B0000";
+C;67.0;"7191100.";7191100;"Atomoxetina cinfa 40 mg";"7 cáps.";"7";"SI";"NO";"SI";"4";"";"";"";"Azul oscuro";"Azul oscuro";"Azul oscuro";"";"$008B0000";"$008B0000";
+C;68.0;"7191117.";7191117;"Atomoxetina cinfa 40 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Azul oscuro";"Azul oscuro";"Azul oscuro";"";"$008B0000";"$008B0000";
+C;69.0;"719116.2";7191162;"Atomoxetina cinfa 60 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Azul oscuro";"amarillo";"Azul oscuro/amarillo";"";"$0091FFFF";"$008B0000";
+C;70.0;"719119.3";7191193;"Atomoxetina cinfa 80 mg";"28 cáps.";"28";"SI";"NO";"SI";"4";"";"";"";"Marron";"Blanco";"Marron/Blanco";"";"clwhite";"$0088A7C6";
+C;71.0;"651068.1";6510681;"atorvastatina cinfa 10 mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;72.0;"651076.6";6510766;"atorvastatina cinfa 20 mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;73.0;"730223.0";7302230;"atorvastatina cinfa 30 mg";"28 comp. Recub.";"28";"";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;74.0;"651084.1";6510841;"atorvastatina cinfa 40 mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;75.0;"730224.7";7302247;"atorvastatina cinfa 60 mg";"28 comp. Recub.";"28";"";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;76.0;"660392.5";6603925;"atorvastatina cinfa 80 mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;77.0;"721951.4";7219514;"azitromicina cinfa® 500 mg";"3 comp. Recub. EFG";"3";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;78.0;"722363.4";7223634;"azitromicina cinfa® 500 mg";"3 sobres EFG";"3";"NO";"";"";"";"";"";"";"marfil";"marfil";"marfil";"";"$004FCCE1";"$004FCCE1";
+C;79.0;"684866.1";6848661;"betahistina cinfa® 16 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;80.0;"684849.4";6848494;"betahistina cinfa® 8 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;81.0;"663281.9";6632819;"bicalutamida cinfa® 50 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;82.0;"731371.7";7313717;"Bilastina cinfa®20 mg ";"20 comprimidos EFG";"20";"?";"si";"";"1";"";"2";"no";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;83.0;"703013.3";7030133;"bisoprolol cinfa 10 mg 28 comprimidos EFG";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;84.0;"703014.0";7030140;"bisoprolol cinfa 10 mg 30 comprimidos EFG";"30 comprimidos EFG";"30";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;85.0;"703015.7";7030157;"bisoprolol cinfa 10 mg 60 comprimidos EFG";"60 comprimidos EFG";"60";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;86.0;"703011.9";7030119;"bisoprolol cinfa 2,5 mg 28 comprimidos EFG";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;87.0;"703004.1";7030041;"bisoprolol cinfa 5 mg 28 comprimidos EFG";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;88.0;"703005.8";7030058;"bisoprolol cinfa 5 mg 30 comprimidos EFG";"30 comprimidos EFG";"30";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;89.0;"703006.5";7030065;"bisoprolol cinfa 5 mg 60 comprimidos EFG";"60 comprimidos EFG";"60";"SI";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"2b";"clwhite";"clwhite";
+C;90.0;"714176.1";7141761;"bupropion cinfa 150 mg";"30 comprimidos EFG";"30";"NO";"SI";"";"1";"";"1";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;91.0;"688729.5";6887295;"candesartán cinfa® 16 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"1B";"$006FBEFF";"$006FBEFF";
+C;92.0;"688731.8";6887318;"candesartán cinfa® 32 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"1B";"$006FBEFF";"$006FBEFF";
+C;93.0;"688730.1";6887301;"candesartán cinfa® 8 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"1B";"$006FBEFF";"$006FBEFF";
+C;94.0;"706317.9";7063179;"captopril cinfa® 25 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;95.0;"706341.4";7063414;"captopril cinfa® 50 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;96.0;"658242.8";6582428;"carvedilol cinfa® 25 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;97.0;"658241.1";6582411;"carvedilol cinfa® 6,25 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;98.0;"6953440";6953440;"cefuroxima cinfa 250 mg";"15 comp recub con película EFG";"15";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;99.0;"6953433";6953433;"cefuroxima cinfa 250 mg";"10 comp recub con película EFG";"10";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;100.0;"6953457";6953457;"cefuroxima cinfa 250 mg";"20 comp recub con película EFG";"20";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;101.0;"6953501";6953501;"cefuroxima cinfa 500 mg";"15 comp recub con película EFG";"15";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;102.0;"695349.5";6953495;"cefuroxima cinfa 500 mg";"10 comp recub con película EFG";"10";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;103.0;"695351.8";6953518;"cefuroxima cinfa 500 mg";"20 comp recub con película EFG";"20";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"14a (azul)";"$00FFC184";"$00FFC184";
+C;104.0;"701793.6";7017936;"celecoxib cinfa 200 mg";"30 cápsulas duras EFG";"30";"SI";"NO";"SI";"4";"";"2";"";"amarillo";"blanco";"amarillo/blanco";"2c (izq amarillo-decha blanco)";"clwhite";"$0091FFFF";
+C;105.0;"650800.8";6508008;"cetirizina cinfa® 10 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;106.0;"700420.2";7004202;"cilostazol cinfa 100 mg";"56 comprimidos EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"Azul Claro";"azul claro";"Azul Claro";"5 b";"$00E6D8AD";"$00E6D8AD";
+C;107.0;"693578.1";6935781;"cinitaprida cinfa®";"1 mg 50 comp EFG";"50";"SI";"SI";"NO";"1";"";"1";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;108.0;"697017.1";6970171;"ciprofloxacino cinfa® 250 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;109.0;"697015.7";6970157;"ciprofloxacino cinfa® 500 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11b";"clwhite";"clwhite";
+C;110.0;"697016.4";6970164;"ciprofloxacino cinfa® 750 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11b";"clwhite";"clwhite";
+C;111.0;"654395.5";6543955;"citalopram cinfa® 20 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;112.0;"654396.2";6543962;"citalopram cinfa® 20 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;113.0;"654397.9";6543979;"citalopram cinfa® 20 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;114.0;"654398.6";6543986;"citalopram cinfa® 30 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;115.0;"677288.1";6772881;"citalopram cinfa® 30 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;116.0;"709221.6";7092216;"Citicolina Cinfamed 1000 mg";"10 sobres 10 ml solución oral EFG";"10";"NO";"";"";"";"";"";"";"rosa";"rosa";"rosa";"gota";"$00CCCCFF";"$00CCCCFF";
+C;117.0;"698474.1";7296744;"Citicolina Cinfamed 1000 mg";"30 sobres 10 ml solución oral EFG";"10";"NO";"";"";"";"";"";"";"rosa";"rosa";"rosa";"gota";"$00CCCCFF";"$00CCCCFF";
+C;118.0;"693485.2";6934852;"claritromicina cinfa® 250 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"NO";"amarillo fuerte";"amarillo fuerte";"amarillo fuerte";"";"$0091FFFF";"$0091FFFF";
+C;119.0;"654027.5";6540275;"claritromicina cinfa® 500 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"NO";"amarillo claro";"amarillo claro";"amarillo claro";"";"$00CEFFFF";"$00CEFFFF";
+C;120.0;"654028.2";6540282;"claritromicina cinfa® 500 mg";"21 comp. recub.  EFG";"21";"SI";"SI";"";"4";"";"2";"NO";"amarillo claro";"amarillo claro";"amarillo claro";"";"$00CEFFFF";"$00CEFFFF";
+C;121.0;"725093.7";7250937;"Clopidogrel Cinfamed 75 mg";" 84 comp.";"84";"SI";"SI";"";"";"";"";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;122.0;"663283.3";6632833;"clopidogrel cinfamed® 75 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;123.0;"690037.6";6900376;"clopidogrel cinfamed® 75 mg";"50 comp. recub. EFG";"50";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;124.0;"762332.8";7623328;"Dabigatrán 110 mg ";"10 cápsulas EFG";"10";"SI";"NO";"";"3";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;125.0;"762333.5";7623335;"Dabigatrán 110 mg ";"30 cápsulas EFG";"30";"SI";"NO";"";"3";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;126.0;"762334.2";7623342;"Dabigatrán 110 mg ";"60 cápsulas EFG";"60";"SI";"NO";"";"3";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;127.0;"762331.1";7623311;"Dabigatrán 150 mg ";"60 cápsulas EFG";"60";"SI";"NO";"";"3";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;128.0;"679562.0";6795620;"deflazacort cinfa® 30 mg";"10 comprimidos EFG";"10";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"10 b";"clwhite";"clwhite";
+C;129.0;"679561.3";6795613;"deflazacort cinfa® 6 mg";"20 comprimidos EFG";"20";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"10 b";"clwhite";"clwhite";
+C;130.0;"688067.8";6880678;"desloratadina cinfamed® 5mg";"20 comp. recubiertos EFG";"20";"SI";"SI";"";"1";"";"2";"NO";"azul";"azul";"azul";"8a";"$00FFC184";"$00FFC184";
+C;131.0;"692278.1";6922781;"desogestrel cinfa 75 microgramos";"28 comp. recub. EFG x 1 mes";"28";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;132.0;"692279.8";6922798;"desogestrel cinfa 75 microgramos";"28 comp. recub. EFG x 3 meses";"28";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;133.0;"704195.5";7041955;"desogestrel/etinilestradiol cinfa 0,15/0,02 mg";"21 comp. x 1 mes EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;134.0;"704196.2";7041962;"desogestrel/etinilestradiol cinfa 0,15/0,02 mg";"21 comp.  x 3 meses EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;135.0;"698738.4";6987384;"desogestrel/etinilestradiol cinfa 0,15/0,03 mg";"21 comp. recub. x 1 mes EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;136.0;"698739.1";6987391;"desogestrel/etinilestradiol cinfa 0,15/0,03 mg";"21 comp. recub. x 3 meses EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;137.0;"734022.5";7340225;"Desvenlafaxina Cinfa 100 mg";" 28 comp. lib. prolong EFG";"28";"?";"si";"";"1";"";"2";"no";"naranja rojizo";"naranja rojizo";"naranja rojizo";"";"$000040FF";"$000040FF";
+C;138.0;"734024.9";7340249;"Desvenlafaxina Cinfa 50 mg ";"28 comp. lib. prolong EFG";"28";"?";"si";"";"1";"";"2";"no";"rosa claro";"rosa claro";"rosa claro";"";"$009A89EA";"$009A89EA";
+C;139.0;"699075.9";6990759;"dexketoprofeno cinfa 12,5 mg";"40 comprimidos recubiertos con película EFG";"40";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9A";"clwhite";"clwhite";
+C;140.0;"699076.6";6990766;"dexketoprofeno cinfa 12,5 mg";"20 comprimidos recubiertos con película EFG";"20";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9A";"clwhite";"clwhite";
+C;141.0;"697490.2";6974902;"dexketoprofeno cinfa 25 mg";"20 sobres para solución oral EFG";"20";"NO";"";"";"";"";"";"";"blanco";"";"blanco";"";"";"clwhite";
+C;142.0;"699073.5";6990735;"dexketoprofeno cinfa 25 mg";"20 comprimidos recubiertos con película EFG";"20";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7B";"clwhite";"clwhite";
+C;143.0;"710218.2";7102182;"diazepam";"5 mg";"30";"Si";"SI";"NO";"1";"";"1";"SI";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;144.0;"710219.9";7102199;"diazepam";"10mg";"30";"SI";"SI";"NO";"1";"";"2";"NO";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;145.0;"711188.7";7111887;"diazepam";"10 mg";"25";"Si";"SI";"NO";"1";"";"2";"NO";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;146.0;"711189.4";7111894;"diazepam";"5 mg";"40";"SI";"SI";"NO";"1";"";"1";"SI";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;147.0;"658351.7";6583517;"diclofenaco cinfa® 50 mg";"40 comp. gastro. EFG";"40";"SI";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;148.0;"701808.7";7018087;"dienogest/etinilestradiol cinfa 1 mg/0,03 mg";"21 comprimidos recubertos con película EFG x 1 mes";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;149.0;"702344.9";7023449;"dienogest/etinilestradiol cinfa 1 mg/0,03 mg";"21 comprimidos recubertos con película EFG x 3 meses";"21";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;150.0;"672940.3";6729403;"donepezilo cinfa® 10 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"0";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;151.0;"672944.1";6729441;"donepezilo cinfa® 5 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;152.0;"685772.4";6857724;"donepezilo flas cinfa® 10 mg";"28 comprimidos bucodisp. EFG";"28";"NO";"SI";"";"1";"";"3";"NO";"blanco";"blanco";"blanco";"13a";"clwhite";"clwhite";
+C;153.0;"685755.7";6857557;"donepezilo flas cinfa® 5 mg";"28 comprimidos bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;154.0;"685799.1";6857991;"doxazosina neo cinfa 4 mg";"28 comprimidos de liberación prolongada EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;155.0;"685650.5";6856505;"doxazosina neo cinfa 8 mg";"28 comprimidos de liberación prolongada EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;156.0;"870600.6";8706006;"doxazosina neo cinfa® 2 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;157.0;"870642.6";8706426;"doxazosina neo cinfa® 4 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;158.0;"731860.6";7318606;"duloxetina cinfa 60 mg";"56 cápsulas gastr. EFG";"56";"SI";"NO";"SI";"4";"";"";"";"verde caqui";"azul oscuro";"verde caqui/azul oscuro";"";"$008B0000";"$00B0D8E0";
+C;159.0;"731859.0";7318590;"duloxetina cinfa 60 mg";"28 cápsulas duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"";"verde caqui";"azul oscuro";"verde caqui/azul oscuro";"4c (verde caqui/azul)";"$008B0000";"$00B0D8E0";
+C;160.0;"7580942";7580942;"duloxetina cinfamed 120 mg";"28 cápsulas duras gastrorresis.";"28";"?";"";"SI";"4";"";"2";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;161.0;"731856.9";7318569;"duloxetina cinfamed 30 mg";"7 cápsulas duras gastrorresis. EFG";"7";"SI";"NO";"SI";"4";"";"2";"";"blanco";"azul oscuro";"blanco/azul oscuro";"4c";"$008B0000";"clwhite";
+C;162.0;"731857.6";7318576;"duloxetina cinfamed 30 mg";"28 cápsulas duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"";"blanco";"azul oscuro";"blanco/azul oscuro";"4c";"$008B0000";"clwhite";
+C;163.0;"7580935";7580935;"duloxetina cinfamed 90 mg";"28 cápsulas duras gastrorresis. ";"28";"?";"";"SI";"4";"";"2";"";"verde";"verde";"verde";"";"$0090EE90";"$0090EE90";
+C;164.0;"709796.9";7097969;"dutasterida cinfa®";"0,5 mg 30 cápsulas blandas EFG";"30";"NO";"NO";"SI";"4";"";"1";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;165.0;"727341.7";7273417;"dutasterida/Tamsulosina cinfamed 0,5/0,4 mg BLÍSTER";"30 cáps duras";"30";"SI";"";"SI";"4";"";"3";"";"mitad Beige";"mitad Marron";"mitad Beige/mitad Marron";"";"$0088A7C6";"$00AED7FF";
+C;166.0;"727340.0";7273400;"dutasterida/Tamsulosina cinfamed 0,5/0,4 mg FRASCO";"30 cáps duras";"30";"SI";"";"SI";"4";"";"3";"";"mitad Beige";"mitad Marron";"mitad Beige/mitad Marron";"";"$0088A7C6";"$00AED7FF";
+C;167.0;"654126.5";6541265;"ebastina cinfa® 10 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;168.0;"654127.2";6541272;"ebastina cinfa® 20 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;169.0;"715488.4";7154884;"ebastina flas cinfa® 10 mg";"20 comp. bucodisp. EFG";"20";"NO";"SI";"";"1";"";"1";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;170.0;"715489.1";7154891;"ebastina flas cinfa® 20 mg";"20 comp. bucodisp. EFG";"20";"NO";"SI";"";"1";"";"1";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;171.0;"677379.6";6773796;"enalapril (2) cinfa® 10 mg";"10 comp.";"10";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;172.0;"677380.2";6773802;"enalapril (2) cinfa® 10 mg";"28 comp.";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;173.0;"677381.9";6773819;"enalapril (2) cinfa® 10 mg";"56 comp.";"56";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;174.0;"853895.9";8538959;"enalapril cinfa® 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;175.0;"852640.6";8526406;"enalapril cinfa® 5 mg";"10 comp. EFG";"10";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;176.0;"973065.9";9730659;"enalapril cinfa® 5 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;177.0;"750489.4";7504894;"enalapril/hctz. cinfa® 20/12,5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;178.0;"706391.9";7063919;"enalapril/lercanidipino cinfa";"10 mg/10 mg 28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;179.0;"706394.0";7063940;"enalapril/lercanidipino cinfa";"10 mg/10 mg 28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;180.0;"692312.2";6923122;"eplerenona cinfa® 25 mg";"30 comp. recub. EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"11a";"$0091FFFF";"$0091FFFF";
+C;181.0;"692322.1";6923221;"eplerenona cinfa® 50 mg";"30 comp. recub. EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"11a";"$0091FFFF";"$0091FFFF";
+C;182.0;"663938.2";6639382;"escitalopram cinfa 10 mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;183.0;"689193.3";6891933;"escitalopram cinfa 10 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"igual a escitalopram";"clwhite";"clwhite";
+C;184.0;"663939.9";6639399;"escitalopram cinfa 15 mg";"28 comp. Recub.  EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;185.0;"689192.6";6891926;"escitalopram cinfa 15 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"igual a escitalopram";"clwhite";"clwhite";
+C;186.0;"663940.5";6639405;"escitalopram cinfa 20 mg";"28 comp. Recub.  EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;187.0;"689191.9";6891919;"escitalopram cinfa 20 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"igual a escitalopram";"clwhite";"clwhite";
+C;188.0;"692851.6";6928516;"escitalopram cinfa 20 mg/ml";"15 ml gotas orales en solución EFG";"15";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"gota transparente";"clwhite";"clwhite";
+C;189.0;"701915.2";7019152;"escitalopram flas cinfa 10 mg";"28 comprimidos bucodispersables EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;190.0;"706939.3";7069393;"escitalopram flas cinfa 10 mg";"56 comprimidos bucodispersables EFG";"56";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;191.0;"701916.9";7019169;"escitalopram flas cinfa 15 mg";"28 comprimidos bucodispersables EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;192.0;"706940.9";7069409;"escitalopram flas cinfa 15 mg";"56 comprimidos bucodispersables EFG";"56";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;193.0;"701918.3";7019183;"escitalopram flas cinfa 20 mg";"28 comprimidos bucodispersables EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;194.0;"706941.6";7069416;"escitalopram flas cinfa 20 mg";"56 comprimidos bucodispersables EFG";"56";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;195.0;"727553.4";7275534;"Eslicarbacepina Cinfa 800 mg ";"30 cápsulas EFG";"30";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;196.0;"727435.3";7274353;"Esomeprazol Cinfa 20 mg ";"56 comprimidos gastrorresistentes EFG";"56";"SI";"si";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;197.0;"727437.7";7274377;"Esomeprazol Cinfa 40 mg ";"56 comprimidos gastrorresistentes EFG";"56";"SI";"si";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;198.0;"686077.9";6860779;"esomeprazol cinfa® 20 mg";"14 comprimidos gastrorresistentes EFG";"14";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;199.0;"686078.6";6860786;"esomeprazol cinfa® 20 mg";"28 comprimidos gastrorresistentes EFG";"28";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;200.0;"720932.4";7209324;"esomeprazol cinfa® 20 mg";"28 cápsulas duras gastrorresistentes EFG";"28";"SI";"";"SI";"4";"";"1";"1";"Blanco ";" Azul";"Blanco / Azul";"";"$00FFC184";"clwhite";
+C;201.0;"686083.0";6860830;"esomeprazol cinfa® 40 mg";"14 comprimidos gastrorresistentes EFG";"14";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;202.0;"686084.7";6860847;"esomeprazol cinfa® 40 mg";"28 comprimidos gastrorresistentes EFG";"28";"SI";"SI";"";"4";"";"2";"NO";"azul";"azul";"azul";"13 b (sin ranura)";"$00FFC184";"$00FFC184";
+C;203.0;"720940.9";7209409;"esomeprazol cinfa® 40 mg";"28 cápsulas duras gastrorresistentes EFG";"28";"SI";"";"SI";"4";"";"2";"1";"Blanco ";" Azul";"Blanco / Azul";"";"$00FFC184";"clwhite";
+C;204.0;"702848.2";7028482;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"21 comp. recub. x 1 mes EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"5a";"$00CCCCFF";"$00CCCCFF";
+C;205.0;"702849.9";7028499;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"21 comp. recub. x 3 meses EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"5a";"$00CCCCFF";"$00CCCCFF";
+C;206.0;"702850.5";7028505;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"21+7 comp. recub. x 1 mes EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a / añadir al lado otra pastilla: 9a";"clwhite";"$00CCCCFF";
+C;207.0;"702851.2";7028512;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"21+7 comp. recub. x 3 meses EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a / añadir al lado otra pastilla: 9a";"clwhite";"$00CCCCFF";
+C;208.0;"724544.5";7245445;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"24+4 comp. recub. x 1 mes EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a / añadir al lado otra pastilla: 9a";"clwhite";"$00CCCCFF";
+C;209.0;"724545.2";7245452;"etinilestradiol/drospirenona cinfa 0,02/3 mg";"24+4 comp. recub. x 3 meses EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a / añadir al lado otra pastilla: 9a";"clwhite";"$00CCCCFF";
+C;210.0;"704937.1";7049371;"etinilestradiol/drospirenona cinfa 0,03/3 mg";"21+7 comp. recub. x 1 mes EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"amarillo";"blanco";"uno amarillo y otro blanco";"3a / añadir al lado otra pastilla: 9a";"clwhite";"$0091FFFF";
+C;211.0;"704938.8";7049388;"etinilestradiol/drospirenona cinfa 0,03/3 mg";"21+7 comp. recub. x 3 meses EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"amarillo";"blanco";"uno amarillo y otro blanco";"3a / añadir al lado otra pastilla: 9a";"clwhite";"$0091FFFF";
+C;212.0;"724546.9";7245469;"etinilestradiol/drospirenona cinfa 0,03/3 mg";"21 comp. recub. x 1 mes EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;213.0;"724547.6";7245476;"etinilestradiol/drospirenona cinfa 0,03/3 mg";"21 comp. recub. x 3 meses EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;214.0;"710366.0";7103660;"etoricoxib  cinfa®";"60 mg 28 comp recub EFG";"28";"SI";"SI";"NO";"1";"";"2";"NO";"verde oscuro";"verde oscuro";"verde oscuro";"";"$0061711B";"$0061711B";
+C;215.0;"710367.7";7103677;"etoricoxib  cinfa®";"30 mg 28 comp recub EFG";"28";"SI";"SI";"NO";"1";"";"1";"NO";"verde claro";"verde claro";"verde claro";"";"$00B6ECBD";"$00B6ECBD";
+C;216.0;"710370.7";7103707;"etoricoxib  cinfa®";"90 mg 28 comp recub EFG";"28";"Si";"Si";"NO";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;217.0;"710371.4";7103714;"etoricoxib  cinfa®";"120 mg 7 comp recub EFG";"7";"SI";"SI";"NO";"1";"";"3";"NO";"verde claro";"verde claro";"verde claro";"";"$00B6ECBD";"$00B6ECBD";
+C;218.0;"694279.6";6942796;"exemestano cinfa® 25 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a amarilla";"$0091FFFF";"$0091FFFF";
+C;219.0;"708220.0";7082200;"ezetimiba cinfa® 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"1";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;220.0;"726873.4";7268734;"Ezetimiba/Atorvastatina Cinfamed 10 mg/20 mg 30 comp.";"30 comp.";"30";"NO";"SI";"";"4";"";"2";"NO";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;221.0;"726874.1";7268741;"Ezetimiba/Atorvastatina Cinfamed 10 mg/40 mg 30 comp.";"30 comp.";"30";"NO";"SI";"";"4";"";"2";"NO";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;222.0;"726875.8";7268758;"Ezetimiba/Atorvastatina Cinfamed 10 mg/80 mg 30 comp.";"30 comp.";"30";"NO";"SI";"";"4";"";"2";"NO";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;223.0;"720450.3";7204503;"ezetimiba/simvastatina cinfamed 10 mg /20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"1";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;224.0;"720451.0";7204510;"ezetimiba/simvastatina cinfamed 10 mg /40 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;225.0;"867168.7";8671687;"famotidina cinfa® 20 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"naranja claro";"naranja claro";"naranja claro";"";"$0095CAFF";"$0095CAFF";
+C;226.0;"901751.4";9017514;"famotidina cinfa® 20 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"2";"NO";"naranja claro";"naranja claro";"naranja claro";"";"$0095CAFF";"$0095CAFF";
+C;227.0;"867184.7";8671847;"famotidina cinfa® 40 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja fuerte";"naranja fuerte";"naranja fuerte";"";"$004080FF";"$004080FF";
+C;228.0;"901702.6";9017026;"famotidina cinfa® 40 mg";"10 comp. recub. EFG";"10";"SI";"SI";"";"1";"";"2";"SI";"naranja fuerte";"naranja fuerte";"naranja fuerte";"";"$004080FF";"$004080FF";
+C;229.0;"724145.4";7241454;"febuxostat cinfa® 120 mg";"28 comp. recub";"28";"SI";"SI";"";"1";"";"2";"";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;230.0;"724148.5";7241485;"febuxostat cinfa® 80 mg";"28 comp. recub";"28";"SI";"SI";"";"1";"";"2";"";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;231.0;"664619.9";6646199;"fentanilo matrix cinfa 100 microgramos/hora";"5 parches trasndérmicos EFG";"5";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;232.0;"664616.8";6646168;"fentanilo matrix cinfa 25 microgramos/hora";"5 parches trasndérmicos EFG";"5";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;233.0;"664617.5";6646175;"fentanilo matrix cinfa 50 microgramos/hora";"5 parches trasndérmicos EFG";"5";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;234.0;"664618.2";6646182;"fentanilo matrix cinfa 75 microgramos/hora";"5 parches trasndérmicos EFG";"5";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;235.0;"731471.4";7314714;"Fesoterodina cinfa 4 mg ";"28 comp. Recub. EFG";"28";"?";"si";"";"4";"";"2";"no";"azul claro";"azul claro";"azul claro";"";"$00E6D8AD";"$00E6D8AD";
+C;236.0;"731472.1";7314721;"Fesoterodina cinfa 8 mg ";"28 comp. Recub. EFG";"28";"?";"si";"";"4";"";"2";"no";"azul claro";"azul claro";"azul claro";"";"$00E6D8AD";"$00E6D8AD";
+C;237.0;"694290.1";6942901;"Finasterida Cinfa 1 mg ";"28 comp Recub EFG";"28";"Si";"SI";"NO";"1";"";"1";"NO";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;238.0;"694291.8";6942918;"Finasterida Cinfa 1 mg ";"98 comp. Recub EFG";"98";"Si";"SI";"NO";"1";"";"1";"NO";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;239.0;"654524.9";6545249;"Finasterida cinfa 5 mg";"28 comp. recub. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"azul claro";"azul claro";"azul claro";"";"$00E6D8AD";"$00E6D8AD";
+C;240.0;"654684.0";6546840;"fluconazol cinfa® 100 mg";"7 cápsulas duras  EFG";"7";"SI";"NO";"SI";"4";"";"2";"";"amarillo claro";"granate";"amarillo claro/granate";"";"$003E2AAB";"$00CEFFFF";
+C;241.0;"654680.2";6546802;"fluconazol cinfa® 150 mg";"1 cápsula dura  EFG";"1";"SI";"NO";"SI";"4";"";"2";"";"amarillo fuerte";"granate";"amarillo fuerte/granate";"";"$003E2AAB";"$0091FFFF";
+C;242.0;"654683.3";6546833;"fluconazol cinfa® 150 mg";"4 cápsulas duras  EFG";"4";"SI";"NO";"SI";"4";"";"2";"";"amarillo fuerte";"granate";"amarillo fuerte/granate";"";"$003E2AAB";"$0091FFFF";
+C;243.0;"654678.9";6546789;"fluconazol cinfa® 200 mg";"7 cápsulas duras  EFG";"7";"SI";"NO";"SI";"4";"";"2";"SI";"granate";"granate";"granate";"";"$003E2AAB";"$003E2AAB";
+C;244.0;"654679.6";6546796;"fluconazol cinfa® 50 mg";"7 cápsulas duras  EFG";"7";"SI";"NO";"SI";"4";"";"2";"";"blanco";"granate";"blanco/granate";"";"$003E2AAB";"clwhite";
+C;245.0;"660118.1";6601181;"fluoxetina cinfa® 20 mg";"14 cápsulas EFG";"14";"SI";"NO";"SI";"4";"";"2";"";"blanco";"naranja";"blanco/naranja";"";"$006FBEFF";"clwhite";
+C;246.0;"660134.1";6601341;"fluoxetina cinfa® 20 mg";"28 cápsulas EFG";"28";"SI";"NO";"SI";"4";"";"2";"";"blanco";"naranja";"blanco/naranja";"";"$006FBEFF";"clwhite";
+C;247.0;"769497.7";7694977;"fluoxetina cinfa® 20 mg";"60 comp. disper. EFG";"60";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;248.0;"769596.7";7695967;"fluoxetina cinfa® 20 mg";"60 cápsulas EFG";"60";"SI";"NO";"SI";"4";"";"2";"";"blanco";"naranja";"blanco/naranja";"";"$006FBEFF";"clwhite";
+C;249.0;"814467.9";8144679;"fluoxetina cinfa® 20 mg";"14 comp. disper. EFG";"14";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;250.0;"814475.4";8144754;"fluoxetina cinfa® 20 mg";"28 comp. disper. EFG";"28";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;251.0;"851576.9";8515769;"flutamida cinfa® 250 mg";"50 comp. EFG";"50";"NO";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;252.0;"851642.1";8516421;"flutamida cinfa® 250 mg";"84 comp. EFG";"84";"NO";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;253.0;"664612.0";6646120;"fluvastatina cinfa® 80 mg";"28 comp. liberación prolongada EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;254.0;"910885.4";9108854;"furosemida cinfa® 40 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;255.0;"993006,6";9930066;"furosemida cinfa® 40 mg";"10 comp. EFG";"10";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;256.0;"655885.0";6558850;"gabapentina cinfa® 300 mg";"30 cápsulas duras EFG";"30";"SI";"NO";"SI";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;257.0;"655888.1";6558881;"gabapentina cinfa® 300 mg";"90 cápsulas duras EFG";"90";"SI";"NO";"SI";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;258.0;"655883.6";6558836;"gabapentina cinfa® 400 mg";"30 cápsulas duras EFG";"30";"SI";"NO";"SI";"4";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;259.0;"655884.3";6558843;"gabapentina cinfa® 400 mg";"90 cápsulas duras EFG";"90";"SI";"NO";"SI";"4";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;260.0;"692237.8";6922378;"gabapentina cinfa® 600 mg";"90 comp. recub. con película EFG";"90";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11 b más pequeño";"clwhite";"clwhite";
+C;261.0;"692235.4";6922354;"gabapentina cinfa® 800 mg";"90 comp. recub. con película EFG";"90";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11 b más pequeño";"clwhite";"clwhite";
+C;262.0;"697283.0";6972830;"galantamina cinfa® 16 mg";"28 cápsulas duras de liberación prolongada EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"rosa";"rosa";"rosa";"2c (color rosa pálido)";"$00CCCCFF";"$00CCCCFF";
+C;263.0;"697284.7";6972847;"galantamina cinfa® 24 mg";"28 cápsulas duras de liberación prolongada EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"naranja";"naranja";"naranja";"2c (color naranja opaco)";"$006FBEFF";"$006FBEFF";
+C;264.0;"697282.3";6972823;"galantamina cinfa® 8 mg";"28 cápsulas duras de liberación prolongada EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2c (color blanco opaco)";"clwhite";"clwhite";
+C;265.0;"701377.8";7013778;"gliclazida cinfa 30 mg";"60 comprimidos de liberación modificada EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"14 A (BLANCA)";"clwhite";"clwhite";
+C;266.0;"653688.9";6536889;"glimepirida cinfa® 2 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"verde claro";"verde claro";"verde claro";"";"$00B6ECBD";"$00B6ECBD";
+C;267.0;"653689.6";6536896;"glimepirida cinfa® 2 mg";"120 comp. EFG";"120";"SI";"SI";"";"1";"";"2";"SI";"verde claro";"verde claro";"verde claro";"";"$00B6ECBD";"$00B6ECBD";
+C;268.0;"653686.5";6536865;"glimepirida cinfa® 4 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"azul claro";"azul claro";"azul claro";"";"$00E6D8AD";"$00E6D8AD";
+C;269.0;"653687.2";6536872;"glimepirida cinfa® 4 mg";"120 comp. EFG";"120";"SI";"SI";"";"1";"";"2";"SI";"azul claro";"azul claro";"azul claro";"";"$00E6D8AD";"$00E6D8AD";
+C;270.0;"656237.6";6562376;"glucosamina cinfa® 1500 mg";"20 sobres con polvo para solución oral EFG";"20";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;271.0;"656238.3";6562383;"glucosamina cinfa® 1500 mg";"30 sobres con polvo para solución oral EFG";"30";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"";"clwhite";"clwhite";
+C;272.0;"652798.6";6527986;"Ibuprofeno";"400 mg";"30";"SI";"SI";"NO";"4";"";"2";"SI";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;273.0;"654698.7";6546987;"ibuprofeno arginina  cinfa® 400 mg";"30 sobres con granulado para solución oral EFG";"30";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;274.0;"654701.4";6547014;"ibuprofeno arginina cinfa 600 mg";"20 sobres con granulado para solución oral EFG";"20";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;275.0;"654702.1";6547021;"ibuprofeno arginina cinfa® 600 mg";"40 sobres con granulado para solución oral EFG";"40";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;276.0;"699130.5";6991305;"ibuprofeno cinfa 40 mg/ml";"Suspensión oral 150 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"blanco";"blanco";"blanco";"Suspensión oral blanca con sabor fresa (imagen gota)";"clwhite";"clwhite";
+C;277.0;"699128.2";6991282;"ibuprofeno cinfa 40 mg/ml";"Suspensión oral 200 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"blanco";"blanco";"blanco";"Suspensión oral blanca con sabor fresa (imagen gota)";"clwhite";"clwhite";
+C;278.0;"656012.9";6560129;"ibuprofeno cinfa® 100 mg/5 ml";"Suspensión oral 200 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"blanco";"blanco";"blanco";"Suspensión oral blanca con sabor naranja (imagen gota)";"clwhite";"clwhite";
+C;279.0;"661426.6";6614266;"ibuprofeno cinfa® 600 mg";"40 comp. recub. EFG";"40";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;280.0;"661472.3";6614723;"indapamida retard cinfa® 1,5 mg";"30 comp. de liberación prolongada EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;281.0;"661598.0";6615980;"irbesartán cinfa® 150 mg";"28 comp. EFG";"28";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;282.0;"661599.7";6615997;"irbesartán cinfa® 300 mg";"28 comp. EFG";"28";"NO";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;283.0;"661597.3";6615973;"irbesartán cinfa® 75 mg";"28 comp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;284.0;"651126.8";6511268;"irbesartán/hctz  cinfa® 300/12,5 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;285.0;"651134.3";6511343;"irbesartán/hctz  cinfa® 300/25 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;286.0;"651118.3";6511183;"irbesartán/hctz cinfa® 150/12,5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;287.0;"695363.1";6953631;"itraconazol cinfa 100 mg";"7 cápsulas duras EFG";"7";"SI";"";"SI";"4";"";"2";"";"verde oscuro";"verde oscuro";"verde oscuro";"1c verde oscuro";"$0061711B";"$0061711B";
+C;288.0;"695364.8";6953648;"itraconazol cinfa 100 mg";"14 cápsulas duras EFG";"14";"SI";"";"SI";"4";"";"2";"";"verde oscuro";"verde oscuro";"verde oscuro";"1c verde oscuro";"$0061711B";"$0061711B";
+C;289.0;"712841.0";7128410;"Ivabradina";"5 mg";"56";"SI";"SI";"No";"1";"";"1";"SI";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;290.0;"712845.8";7128458;"Ivabradina";"7,5";"56";"SI";"SI";"NO";"1";"";"1";"SI";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;291.0;"767467.2";7674672;"ketoconazol cinfa® 2%";"Gel 100 ml  EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"Rojo";"Rojo";"Rojo";"Gota color rojo";"$000000FF";"$000000FF";
+C;292.0;"732675.5";7326755;"lacosamida cinfa® 100 mg ";"56 comp. Recubiertos EFG";"56";"?";"si";"";"4";"";"2";"no";"amarillo oscuro";"amarillo oscuro";"amarillo oscuro";"";"$0091FFFF";"$0091FFFF";
+C;293.0;"732676.2";7326762;"lacosamida cinfa® 150 mg";"56 comp. Recubiertos EFG";"56";"?";"si";"";"4";"";"2";"no";"salmón";"salmón";"salmón";"";"$007280FA";"$007280FA";
+C;294.0;"732679.3";7326793;"lacosamida cinfa® 200 mg";"56 comp. Recubiertos EFG";"56";"?";"si";"";"4";"";"3";"no";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;295.0;"732680.9";7326809;"lacosamida cinfa® 50 mg ";"14 comp. Recubiertos EFG";"14";"?";"si";"";"4";"";"1";"no";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;296.0;"726992.2";7269922;"lansoprazol cinfa® 15 mg";"28 cáps. duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;297.0;"727433.9";7274339;"lansoprazol cinfa® 15 mg";"56 cáps. duras gastrorresis. EFG";"56";"SI";"NO";"SI";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;298.0;"726604.4";7266044;"lansoprazol cinfa® 30 mg";"14 cáps. duras gastrorresis. EFG";"14";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;299.0;"726950.2";7269502;"lansoprazol cinfa® 30 mg";"28 cáps. duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;300.0;"727434.6";7274346;"lansoprazol cinfa® 30 mg";"56 cáps. duras gastrorresis. EFG";"56";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;301.0;"650171.9";6501719;"lansoprazol cinfamed® 15 mg";"28 cáps. duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;302.0;"650172.6";6501726;"lansoprazol cinfamed® 30 mg";"14 cáps. duras gastrorresis. EFG";"14";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2 c";"clwhite";"clwhite";
+C;303.0;"650173.3";6501733;"lansoprazol cinfamed® 30 mg";"28 cáps. duras gastrorresis. EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2 c";"clwhite";"clwhite";
+C;304.0;"710150.5";7101505;"leflunomida cinfa®";"10 mg 30 comp. Recub. EFG";"30";"NO";"SI";"NO";"1";"";"1";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;305.0;"710151.2";7101512;"leflunomida cinfa®";"20 mg 30 comp. Recub. EFG";"30";"NO";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;306.0;"667591.5";6675915;"lercanidipino cinfa® 10 mg";"28 comp. recub. EFG";"28";"NO";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;307.0;"667601.1";6676011;"lercanidipino cinfa® 20 mg";"28 comp. recub. EFG";"28";"NO";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;308.0;"665064.6";6650646;"letrozol cinfa® 2,5 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"redonda y amarilla";"$0091FFFF";"$0091FFFF";
+C;309.0;"693011.3";6930113;"levetiracetam cinfa® 100 mg/ml";"solución oral 300 ml  EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"incoloro";"incoloro";"incoloro";"gota";"clwhite";"clwhite";
+C;310.0;"685780.9";6857809;"levetiracetam cinfa® 1000 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11 b";"clwhite";"clwhite";
+C;311.0;"685781.6";6857816;"levetiracetam cinfa® 1000 mg";"30 comp. recub. EFG";"30";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11 b";"clwhite";"clwhite";
+C;312.0;"685773.1";6857731;"levetiracetam cinfa® 250 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"SI";"azul";"azul";"azul";"13 b";"$00FFC184";"$00FFC184";
+C;313.0;"685777.9";6857779;"levetiracetam cinfa® 500 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"18 a (con ranura)";"$0091FFFF";"$0091FFFF";
+C;314.0;"672942.7";6729427;"levocetirizina cinfa® 5 mg";"20 comp.recub. EFG";"20";"SI";"SI";"";"4";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;315.0;"705801.4";7058014;"Levodopa/carbidopa/entacapona cinfa 100/25/200 mg";"100 comp recub EFG";"100";"NO";"SI";"";"4";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"14a rojo teja";"$004973C3";"$004973C3";
+C;316.0;"705800.7";7058007;"Levodopa/carbidopa/entacapona cinfa 125/31,25/200 mg";"100 comp recub EFG";"100";"NO";"SI";"";"1";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"4a rojo teja";"$004973C3";"$004973C3";
+C;317.0;"705802.1";7058021;"Levodopa/carbidopa/entacapona cinfa 150/37,5/200 mg";" 100 comp recub EFG";"100";"NO";"SI";"";"0";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"134 rojo teja";"$004973C3";"$004973C3";
+C;318.0;"705803.8";7058038;"Levodopa/carbidopa/entacapona cinfa 200/50/200 mg";" 100 comp recub EFG";"100";"NO";"SI";"";"4";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"14a rojo teja";"$004973C3";"$004973C3";
+C;319.0;"705813.7";7058137;"Levodopa/carbidopa/entacapona cinfa 50/12,5/200 mg";"100 comp recub EFG";"100";"NO";"SI";"";"1";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"4a rojo teja";"$004973C3";"$004973C3";
+C;320.0;"705812.0";7058120;"Levodopa/carbidopa/entacapona cinfa 75/18,75/200 mg";"100 comp recub EFG";"100";"NO";"SI";"";"0";"";"2";"NO";"rojo teja";"rojo teja";"rojo teja";"134 rojo teja";"$004973C3";"$004973C3";
+C;321.0;"693487.6";6934876;"levofloxacino cinfa® 500 mg";"7 comp. recub. EFG";"7";"SI";"SI";"";"4";"";"2";"SI";"rosa";"rosa";"rosa";"16a rosa y ranurado";"$00CCCCFF";"$00CCCCFF";
+C;322.0;"693488.3";6934883;"levofloxacino cinfa® 500 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"SI";"rosa";"rosa";"rosa";"16a rosa y ranurado";"$00CCCCFF";"$00CCCCFF";
+C;323.0;"702395.1";7023951;"levonorgestrel/etinilestradiol cinfa 0,1/0,02 mg";"21+7 comp. recub. x 1 mes EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a";"clwhite";"$00CCCCFF";
+C;324.0;"702396.8";7023968;"levonorgestrel/etinilestradiol cinfa 0,1/0,02 mg";"21+7 comp. recub. x 3 meses EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"rosa";"blanco";"uno rosa y otro blanco";"5a / añadir al lado otra pastilla: 9a";"clwhite";"$00CCCCFF";
+C;325.0;"716296.4";7162964;"levonorgestrel/etinilestradiol cinfa 0,1/0,02 mg";"21 comp. recub. x 1 mes EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"5a";"$00CCCCFF";"$00CCCCFF";
+C;326.0;"716297.1";7162971;"levonorgestrel/etinilestradiol cinfa 0,1/0,02 mg";"21 comp. recub. x 3 meses EFG";"21";"NO";"SI";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"5a / añadir al lado otra pastilla: 9a";"$00CCCCFF";"$00CCCCFF";
+C;327.0;"820589.9";8205899;"lisinopril cinfa® 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;328.0;"820688.9";8206889;"lisinopril cinfa® 5 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;329.0;"695764.6";6957646;"lisinopril/hctz. cinfa® 20 mg/12,5 mg";"28 comp. EFG";"28";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b (blanca)";"clwhite";"clwhite";
+C;330.0;"762930.6";7629306;"loratadina cinfa® 10 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;331.0;"658491.0";6584910;"lorazepam cinfa® 1 mg";"25 comp. EFG";"25";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;332.0;"658493.4";6584934;"lorazepam cinfa® 1 mg";"50 comp. EFG";"50";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;333.0;"658494.1";6584941;"lorazepam cinfa® 5 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;334.0;"658317.3";6583173;"lormetazepam cinfa® 1 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;335.0;"658318.0";6583180;"lormetazepam cinfa® 2 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;336.0;"654255.2";6542552;"losartán cinfa® 100 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;337.0;"654262.0";6542620;"losartán cinfa® 12,5 mg inicio";"7 comp. recub. EFG";"7";"SI";"SI";"";"1";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;338.0;"654254.5";6542545;"losartán cinfa® 50 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;339.0;"663397.7";6633977;"losartán/hctz. cinfa®  100/25 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;340.0;"659477.3";6594773;"losartán/hctz. cinfa®  50/12,5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;341.0;"764009.7";7640097;"losartán/hctz. cinfa®  100/12,5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;342.0;"911685.9";9116859;"lovastatina cinfa® 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;343.0;"816918.4";8169184;"lovastatina cinfa® 40 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"verde";"verde";"verde";"Igual pero con ranura";"$0090EE90";"$0090EE90";
+C;344.0;"677277.5";6772775;"manidipino cinfa® 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;345.0;"677276.8";6772768;"manidipino cinfa® 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;346.0;"659533.6";6595336;"meloxicam cinfa® 15 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;347.0;"659531.2";6595312;"meloxicam cinfa® 7,5 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;348.0;"698134.4";6981344;"memantina cinfa® 10 mg";"112 comp. recub. EFG";"112";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;349.0;"698135.1";6981351;"memantina cinfa® 20 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"rosa";"rosa";"rosa";"7b (color rosa)";"$00CCCCFF";"$00CCCCFF";
+C;350.0;"700977.1";7009771;"memantina cinfa® solución oral";"5 mg/pulsación solución oral 100 ml EFG (10 mg/ml)";"5";"NO";"";"";"";"";"";"";"incoloro";"incoloro";"incoloro";"GOTA amarilo claro";"clwhite";"clwhite";
+C;351.0;"722429.7";7224297;"Memantina flas Cinfa 10 mg";"112 comp. bucodisp";"112";"SI";"SI";"";"1";"";"";"";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;352.0;"722428.0";7224280;"Memantina flas Cinfa 20 mg";"56 comp. bucodisp";"56";"SI";"SI";"";"1";"";"";"";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;353.0;"656262.8";6562628;"metamizol cinfa® 575 mg";"10 cápsulas EFG";"10";"SI";"NO";"SI";"4";"";"2";"SI";"granate";"granate";"granate";"";"$003E2AAB";"$003E2AAB";
+C;354.0;"656263.5";6562635;"metamizol cinfa® 575 mg";"20 cápsulas EFG";"20";"SI";"NO";"SI";"4";"";"2";"SI";"granate";"granate";"granate";"";"$003E2AAB";"$003E2AAB";
+C;355.0;"656367.0";6563670;"metformina cinfa® 850 mg";"50 comp. recub. EFG";"50";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;356.0;"707835.7";7078357;"micofenolato de mofetilo cinfa®";"250 mg 100 comp. Rec EFG";"100";"NO";"SI";"NO";"4";"";"2";"NO";"morado claro";"morado claro";"morado claro";"";"$00A5569F";"$00A5569F";
+C;357.0;"707836.4";7078364;"micofenolato de mofetilo cinfa®";"500 mg 50 comp. Rec EFG";"50";"NO";"SI";"NO";"4";"";"2";"NO";"morado claro";"morado claro";"morado claro";"";"$00A5569F";"$00A5569F";
+C;358.0;"652203.5";6522035;"mirtazapina cinfa® 30 mg";"30 comp. recub. EFG";"30";"NO";"SI";"";"4";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;359.0;"735347.8";7353478;"mirtazapina cinfa® 15 mg ";"30 comp. recub. EFG";"30";"NO";"SI";"";"4";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;360.0;"735348.5";7353485;"mirtazapina cinfa® 15 mg ";"60 comp. recub. EFG";"60";"NO";"SI";"";"4";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;361.0;"661056.5";7256175;"mirtazapina flas cinfa® 15 mg";"30 comp. bucodisp. EFG";"30";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;362.0;"661054.1";7256182;"mirtazapina flas cinfa® 30 mg";"30 comp. bucodisp. EFG";"30";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;363.0;"725619.9";7256199;"mirtazapina flas Cinfamed 45 mg";" 30 comp.";"30";"SI";"SI";"";"1";"";"";"";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;364.0;"720445.9";7204459;"mometasona spray nasal";"50ug susp 140 pulv";"1";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;365.0;"689452.1";6894521;"montelukast cinfa® 10 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"11A";"$000000FE";"$000000FE";
+C;366.0;"681035.4";6810354;"montelukast cinfa® 4 mg";"28 sobres EFG";"28";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"sobre";"clwhite";"clwhite";
+C;367.0;"681038.5";6810385;"montelukast cinfa® 4 mg";"28 comp. masticables EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"4A";"$000000FE";"$000000FE";
+C;368.0;"681039.2";6810392;"montelukast cinfa® 5 mg";"28 comp. masticables EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"4A";"$000000FE";"$000000FE";
+C;369.0;"698417.8";6984178;"moxifloxacino cinfa 400 mg";"5 comprimidos recubiertos con película EFG";"5";"SI";"SI";"";"4";"";"2";"NO";"rosa";"rosa";"rosa";"14a ROSA";"$00CCCCFF";"$00CCCCFF";
+C;370.0;"698418.5";6984185;"moxifloxacino cinfa 400 mg";"7 comprimidos recubiertos con película EFG";"7";"SI";"SI";"";"4";"";"2";"NO";"rosa";"rosa";"rosa";"14a ROSA";"$00CCCCFF";"$00CCCCFF";
+C;371.0;"755330,4";7553304;"naproxeno sódico cinfa® 550 mg";"10 comp.recub. EFG";"10";"SI";"SI";"";"4";"";"3";"SI";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;372.0;"755348.9";7553489;"naproxeno sódico cinfa® 550 mg";"40 comp. Recub. EFG";"40";"SI";"SI";"";"4";"";"3";"SI";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;373.0;"679734.1";6797341;"nebivolol cinfa® 5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;374.0;"658780.5";6587805;"norfloxacino cinfa® 400 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;375.0;"659106.2";6591062;"olanzapina cinfa® 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;376.0;"659107.9";6591079;"olanzapina cinfa® 10 mg";"56 comp. EFG";"56";"SI";"SI";"";"1";"";"2";"NO";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;377.0;"728658.5";7286585;"Olanzapina cinfa® 10 mg";" 28 cápsulas";"28";"";"";"si";"4";"";"";"";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;378.0;"728659.2";7286592;"Olanzapina cinfa® 10 mg";"56 cápsulas";"56";"";"";"si";"4";"";"";"";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;379.0;"728660.8";7286608;"Olanzapina cinfa® 15 mg";" 28 cápsulas";"28";"";"";"si";"4";"";"";"";"gris";"naranja";"tapa gris cuerpo naranja";"";"$006FBEFF";"$00808080";
+C;380.0;"659096.6";6590966;"olanzapina cinfa® 2,5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"";"$000000FE";"$000000FE";
+C;381.0;"728662.2";7286622;"Olanzapina cinfa® 2,5 mg ";" 28 cápsulas";"28";"";"";"si";"4";"";"";"";"gris";"blanco";"tapa gris, cuerpo blanco";"";"clwhite";"$00808080";
+C;382.0;"728661.5";7286615;"Olanzapina cinfa® 20 mg ";" 28 cápsulas";"28";"";"";"si";"4";"";"";"";"gris";"gris";"tapa gris cuerpo gris";"";"$00808080";"$00808080";
+C;383.0;"659104.8";6591048;"olanzapina cinfa® 5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"";"$000000FE";"$000000FE";
+C;384.0;"728663.9";7286639;"Olanzapina cinfa® 5 mg ";" 28 cápsulas";"28";"";"";"si";"4";"";"";"";"blanco";"blanco";"tapa blanca cuerpo blanco";"";"clwhite";"clwhite";
+C;385.0;"659105.5";6591055;"olanzapina cinfa® 7,5 mg";"56 comp. EFG";"56";"SI";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"";"$000000FE";"$000000FE";
+C;386.0;"728756.8";7287568;"Olanzapina cinfa® 7,5 mg";"56 cápsulas";"56";"";"";"si";"4";"";"";"";"naranja";"blanco";"tapa naranja cuerpo blanco";"";"clwhite";"$006FBEFF";
+C;387.0;"673805.4";6738054;"olanzapina flas cinfa® 10 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;388.0;"673807.8";6738078;"olanzapina flas cinfa® 10 mg";"56 comp. bucodisp. EFG";"56";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;389.0;"686895.9";6868959;"olanzapina flas cinfa® 15 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;390.0;"686897.3";6868973;"olanzapina flas cinfa® 20 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;391.0;"673793.4";6737934;"olanzapina flas cinfa® 5 mg";"28 comp. bucodisp. EFG";"28";"NO";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;392.0;"706601.9";7066019;"Olmesartan";"10 mg";"28";"SI";"SI";"NO";"1";"";"1";"SI";"Gris Claro";"Gris Claro";"Gris Claro";"";"$00B2B2B5";"$00B2B2B5";
+C;393.0;"706599.9";7065999;"Olmesartán";"20 mg";"28";"SI";"SI";"NO";"1";"";"1";"SI";"Gris Claro";"Gris Claro";"Gris Claro";"";"$00B2B2B5";"$00B2B2B5";
+C;394.0;"706600.2";7066002;"Olmesartán";"40 mg";"28";"SI";"SI";"NO";"4";"";"2";"SI";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;395.0;"719796.6";7197966;"olmesartán/amlodipino cinfa® 20/5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"1";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;396.0;"719795.9";7197959;"olmesartán/amlodipino cinfa® 40/10 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"1";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;397.0;"719794.2";7197942;"olmesartán/amlodipino cinfa® 40/5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"1";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;398.0;"728812.1";7288121;"Olmesartán/Amlodipino/ hctz Cinfamed 20/5/12,5 mg ";"28 comp. Recub EFG";"28";"SI";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;399.0;"728811.4";7288114;"Olmesartán/Amlodipino/ hctz Cinfamed 40/10/12,5 mg";"28 comp. Recub EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rojo claro";"rojo claro";"rojo claro";"";"$000000FE";"$000000FE";
+C;400.0;"728810.7";7288107;"Olmesartán/Amlodipino/ hctz Cinfamed 40/10/25 mg";"28 comp. Recub EFG";"28";"SI";"SI";"";"1";"";"3";"NO";"rojo claro";"rojo claro";"rojo claro";"";"$000000FE";"$000000FE";
+C;401.0;"727448.3";7274483;"Olmesartán/Amlodipino/ hctz Cinfamed 40/5/12,5 mg";"28 comp. Recub EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"amarillo claro";"Rosa Claro";"amarillo claro";"";"$009A89EA";"$00CEFFFF";
+C;402.0;"728808.4";7288084;"Olmesartán/Amlodipino/ hctz Cinfamed 40/5/25 mg";"28 comp. Recub EFG";"28";"SI";"SI";"";"1";"";"3";"NO";"amarillo claro";"Rosa Claro";"amarillo claro";"";"$009A89EA";"$00CEFFFF";
+C;403.0;"711164.1";7111641;"Olmesartán/hctz";"20/12,5";"28";"SI";"SI";"NO";"1";"";"2";"NO";"Amarillo Claro";"amarillo claro";"Amarillo Claro";"";"$00CEFFFF";"$00CEFFFF";
+C;404.0;"711168.8";7111658;"Olmesartán/hctz";"40/12,5";"28";"Si";"Si";"NO";"4";"";"2";"NO";"Amarillo Claro";"amarillo claro";"Amarillo Claro";"";"$00CEFFFF";"$00CEFFFF";
+C;405.0;"711166.5";7111665;"Olmesartán/hctz";"40/25";"28";"Si";"Si";"NO";"4";"";"2";"NO";"Rosa Claro";"Rosa Claro";"Rosa Claro";"";"$009A89EA";"$009A89EA";
+C;406.0;"711167.2";7111672;"Olmesartán/hctz";"20/25";"28";"SI";"SI";"NO";"1";"";"2";"NO";"Rosa Claro";"Rosa Claro";"Rosa Claro";"";"$009A89EA";"$009A89EA";
+C;407.0;"703867.2";7038672;"omeprazol (2) cinfa® 40 mg";"14 cápsulas";"14";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;408.0;"703869.6";7038696;"omeprazol (2) cinfa® 40 mg";"28 cápsulas";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;409.0;"706632.3";7066323;"Omeprazol Cinfa 20 mg.";"14 cáps.  Tarro.";"14";"SI";"NO";"SI";"4";"";"";"";"blanco";"azul";"blanco/azul";"";"$00FFC184";"clwhite";
+C;410.0;"706633.0";7066330;"Omeprazol Cinfa 20 mg.";"28 cáps.  Tarro.";"28";"SI";"NO";"SI";"4";"";"";"";"blanco";"azul";"blanco/azul";"";"$00FFC184";"clwhite";
+C;411.0;"709818.8";7098188;"Omeprazol Cinfa 20 mg.";"56 cáps.  Tarro.";"56";"SI";"NO";"SI";"4";"";"";"";"blanco";"azul";"blanco/azul";"";"$00FFC184";"clwhite";
+C;412.0;"887638.9";8876389;"omeprazol cinfamed 20 mg";"28 cápsulas EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2c";"clwhite";"clwhite";
+C;413.0;"887646.4";8876464;"omeprazol cinfamed 20 mg";"14 cápsulas EFG";"14";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2c";"clwhite";"clwhite";
+C;414.0;"901413.1";9014131;"omeprazol cinfamed 20 mg";"56 cápsulas duras gastrorresist. EFG";"56";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2c";"clwhite";"clwhite";
+C;415.0;"725667.0";7256670;"Omeprazol Cinfamed 40 mg.";"56 cáps. Tarro.";"56";"SI";"NO";"SI";"4";"";"";"";"Azul";"Blanco";"Azul/Blanco";"";"clwhite";"$00FFC184";
+C;416.0;"722319.1";7223191;"orlistat cinfa® 120 mg";"84 cáps";"84";"NO";"";"SI";"4";"";"3";"";"Azul";"azul";"Azul";"";"$00FFC184";"$00FFC184";
+C;417.0;"704770.4";7047704;"otilonio cinfa 40 mg";"60 comprimidos recubiertos con película EFG";"60";"SI";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;418.0;"698567.0";6985670;"oxcarbazepina cinfa 300 mg";"100 comp. recub. EFG";"100";"SI";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"8b AMARILLO";"$0091FFFF";"$0091FFFF";
+C;419.0;"698569.4";6985694;"oxcarbazepina cinfa 600 mg";"100 comp. recub. EFG";"100";"SI";"SI";"";"4";"";"2";"NO";"rosa";"rosa";"rosa";"16a más grande y ROSA";"$00CCCCFF";"$00CCCCFF";
+C;420.0;"712503.7";7125037;"oxicodona/naloxona cinfa®";"5 mg/2,5 mg 56 comp. Lib prolog EFG";"56";"SI";"SI";"NO";"0";"";"1";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;421.0;"712504.4";7125044;"oxicodona/naloxona cinfa®";"10 mg/5 mg 56 comp. Lib prolog EFG";"56";"SI";"SI";"NO";"0";"";"1";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;422.0;"712506.8";7125068;"oxicodona/naloxona cinfa®";"20 mg/10 mg 56 comp. Lib prolog EFG";"56";"SI";"SI";"NO";"0";"";"1";"NO";"rosa claro";"rosa claro";"rosa claro";"";"$009A89EA";"$009A89EA";
+C;423.0;"712507.5";7125075;"oxicodona/naloxona cinfa®";"40 mg/20 mg 56 comp. Lib prolog EFG";"56";"SI";"SI";"NO";"0";"";"2";"NO";"marrón claro";"marrón claro";"marrón claro";"";"$004A5DAF";"$004A5DAF";
+C;424.0;"730529.3";7305293;"Paliperidona cinfa 3 mg ";"28 comp.lib. Prol. EFG ";"28";"";"si";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;425.0;"730538.5";7305385;"Paliperidona cinfa 6 mg ";"28 comp.lib. Prol. EFG ";"28";"";"si";"";"1";"";"2";"NO";"amarillo pardusco";"amarillo pardusco";"amarillo pardusco";"";"$0001919D";"$0001919D";
+C;426.0;"730546.0";7305460;"Paliperidona cinfa 9 mg ";"28 comp.lib. Prol. EFG ";"28";"";"si";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;427.0;"727185.7";7271857;"Pantoprazol Cinfa 20 mg";"56 comprimidos gastrorresis. EFG frasco";"56";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;428.0;"727184.0";7271840;"Pantoprazol Cinfa 20 mg. ";"56 comprimidos gastrorresis. EFG blíster";"56";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;429.0;"727186.4";7271864;"Pantoprazol Cinfa 40 mg";"56 comprimidos gastrorresis. EFG blíster";"56";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;430.0;"727187.1";7271871;"Pantoprazol Cinfa 40mg";"56 comprimidos gastrorresis. EFG frasco";"56";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;431.0;"663541.4";6635414;"pantoprazol cinfa® 20 mg";"28 comprimidos gastrorresis. EFG";"28";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;432.0;"663544.5";6635445;"pantoprazol cinfa® 20 mg";"28 comprimidos gastrorresis. EFG";"28";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;433.0;"656148.5";6561485;"pantoprazol cinfa® 40 mg";"14 comprimidos gastrorresis. EFG";"14";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;434.0;"656149.2";6561492;"pantoprazol cinfa® 40 mg";"28 comprimidos gastrorresis. EFG";"28";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"";"$004A5DAF";"$004A5DAF";
+C;435.0;"685533.1";6855331;"pantoprazol cinfa® 40 mg";"14 comprimidos gastrorresis. EFG";"14";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"Como los demás pantos";"$004A5DAF";"$004A5DAF";
+C;436.0;"685534.8";6855348;"pantoprazol cinfa® 40 mg";"28 comprimidos gastrorresis. EFG";"28";"SI";"SI";"";"4";"";"1";"NO";"marron claro";"marrón claro";"marron claro";"Como los demás pantos";"$004A5DAF";"$004A5DAF";
+C;437.0;"655871.3";6558713;"paracetamol cinfa® 1 g";"20 sobres con polvo efervescente  EFG";"20";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;438.0;"655872.0";6558720;"paracetamol cinfa® 1 g";"40 sobres con polvo efervescente EFG";"40";"NO";"";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;439.0;"662025.0";6620250;"paracetamol cinfa® 1 g";"20 comp. EFG";"20";"SI";"SI";"";"4";"";"3";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;440.0;"662026.7";6620267;"paracetamol cinfa® 1 g";"40 comp. EFG";"40";"SI";"SI";"";"4";"";"3";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;441.0;"725999.2";7259992;"paracetamol cinfa® 650 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"4";"";"3";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;442.0;"726000.4";7260004;"paracetamol cinfa® 650 mg";"40 comp. recub. EFG";"40";"SI";"SI";"";"4";"";"3";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;443.0;"702581.8";7025818;"paricalcitol cinfa 1 microgramo";"28 cápsulas blandas EFG";"28";"NO";"SI";"";"1";"";"1";"";"gris";"gris";"gris";"pastilla gris redonda";"$00808080";"$00808080";
+C;444.0;"651602.7";6516027;"paroxetina cinfa® 20 mg";"14 comp. recub. EFG";"14";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;445.0;"651603.4";6516034;"paroxetina cinfa® 20 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;446.0;"651605.8";6516058;"paroxetina cinfa® 20 mg";"56 comp. recub. EFG";"56";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;447.0;"693191.2";6931912;"pioglitazona cinfa® 15 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;448.0;"693193.6";6931936;"pioglitazona cinfa® 15 mg";"56 comprimidos EFG";"56";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;449.0;"693211.7";6932117;"pioglitazona cinfa® 30 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;450.0;"693212.4";6932124;"pioglitazona cinfa® 30 mg";"56 comprimidos EFG";"56";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;451.0;"741058.4";7410584;"piroxicam cinfa® 20 mg";"20 comp. dispers. EFG";"20";"NO";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;452.0;"728219.8";7282198;"Pitavastatina Cinfa 1 mg  ";"28 comp. Recub EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;453.0;"728221.1";7282211;"Pitavastatina Cinfa 2 mg ";"28 comp. Recub EFG";"28";"NO";"SI";"";"1";"";"1";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;454.0;"728222.8";7282228;"Pitavastatina Cinfa 4 mg";"28 comp. Recub EFG";"28";"NO";"SI";"";"1";"";"1";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;455.0;"656188.1";6561881;"plantago ovata (2) (3) cinfa® 3,5 g";"30 sobres con polvo para suspensión oral";"30";"NO";"";"";"";"";"";"";"Marrón";"Naranja";"marrón/naranja";"";"$006FBEFF";"$0088A7C6";
+C;456.0;"665292.3";6652923;"pramipexol 0,18 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;457.0;"665293.0";6652930;"pramipexol 0,18 mg";"100 comp. EFG";"100";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;458.0;"665290.9";6652909;"pramipexol 0,7 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;459.0;"665291.6";6652916;"pramipexol 0,7 mg";"100 comp. EFG";"100";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;460.0;"707137.2";7071372;"Pramipexol retard 0,26 mg";"30 comp.";"30";"SI";"SI";"";"1";"";"";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;461.0;"707138.9";7071389;"Pramipexol retard 0,52 mg ";"30 comp. EFG";"30";"";"si";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;462.0;"707139.6";7071396;"Pramipexol retard 1,05 mg";"30 comp.";"30";"SI";"SI";"";"1";"";"";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;463.0;"707140.2";7071402;"Pramipexol retard 1,57 mg";"30 comp. EFG";"30";"";"si";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;464.0;"707142.6";7071426;"Pramipexol retard 2,10 mg";"30 comp.";"30";"SI";"SI";"";"1";"";"";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;465.0;"707143.3";7071433;"Pramipexol retard 2,62 mg ";"30 comp. EFG";"30";"";"si";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;466.0;"707144.0";7071440;"Pramipexol retard 3,15 mg ";"30 comp. EFG";"30";"";"si";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;467.0;"661664.2";6616642;"pravastatina cinfamed® 10 mg";"28 comp. EFG";"28";"NO";"SI";"";"2";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;468.0;"661665.9";6616659;"pravastatina cinfamed® 20 mg";"28 comp. EFG";"28";"NO";"SI";"";"2";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;469.0;"661667.3";6616673;"pravastatina cinfamed® 40 mg";"28 comp. EFG";"28";"NO";"SI";"";"2";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;470.0;"688717.2";6887172;"prednisona (2) cinfa® 10 mg";"30 comprimidos";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;471.0;"688704.2";6887042;"prednisona cinfa® 2,5 mg";"30 comprimidos EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;472.0;"688760.8";6887608;"prednisona cinfa® 30 mg";"30 comprimidos EFG";"30";"SI";"SI";"";"4";"";"2";"SI, DOBLE";"blanco";"blanco";"blanco";"11b";"clwhite";"clwhite";
+C;473.0;"688711.0";6887110;"prednisona cinfa® 5 mg";"30 comprimidos EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;474.0;"688712.7";6887127;"prednisona cinfa® 5 mg";"60 comprimidos EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;475.0;"728999.9";7289999;"Pregabalina Cinfa 100 mg ";"84 cápsulas duras EFG";"84";"SI";"";"SI";"";"";"2";"";"naranja oscuro";"naranja oscuro";"naranja oscuro";"";"$004080FF";"$004080FF";
+C;476.0;"704496.3";7044963;"pregabalina cinfa 150 mg";"56 cápsulas duras EFG";"56";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2C (MÁS GRANDE)";"clwhite";"clwhite";
+C;477.0;"729000.1";7290001;"Pregabalina Cinfa 200 mg";"84 cápsulas duras EFG";"84";"SI";"";"SI";"";"";"2";"";"naranja claro";"naranja claro";"naranja claro";"";"$0095CAFF";"$0095CAFF";
+C;478.0;"704497.0";7044970;"pregabalina cinfa 25 mg";"56 cápsulas duras EFG";"56";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"2C (MÁS PEQUEÑA)";"clwhite";"clwhite";
+C;479.0;"704499.4";7044994;"pregabalina cinfa 300 mg";"56 cápsulas duras EFG";"56";"SI";"NO";"SI";"4";"";"2";"";"blanco";"granate";"blanco/granate";"9C (MÁS GRANDE)";"$003E2AAB";"clwhite";
+C;480.0;"729002.5";7290025;"Pregabalina Cinfa 50 mg ";"56 cápsulas duras EFG";"56";"SI";"";"SI";"";"";"2";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;481.0;"704500.7";7045007;"pregabalina cinfa 75 mg";"56 cápsulas duras EFG";"56";"SI";"NO";"SI";"4";"";"2";"";"blanco";"granate";"blanco/granate";"9C (MÁS PEQUEÑA)";"$003E2AAB";"clwhite";
+C;482.0;"687967.2";6879672;"quetiapina cinfa 200 mg";"60 comp. de liberación prolongada  EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"amarillo oscuro";"amarillo oscuro";"amarillo oscuro";"14a amarillo";"$0091FFFF";"$0091FFFF";
+C;483.0;"687977.1";6879771;"quetiapina cinfa 300 mg";"60 comp. de liberación prolongada  EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"amarillo claro";"amarillo claro";"amarillo claro";"14 a amarillo claro";"$00CEFFFF";"$00CEFFFF";
+C;484.0;"687986.3";6879863;"quetiapina cinfa 400 mg";"60 comp. de liberación prolongada  EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"14a blanco";"clwhite";"clwhite";
+C;485.0;"687957.3";6879573;"quetiapina cinfa 50 mg";"60 comp. de liberación prolongada  EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"marron oscuro";"marron oscuro";"marron oscuro";"14a marrón";"$00004080";"$00004080";
+C;486.0;"672712.6";6727126;"quetiapina cinfa® 100 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;487.0;"712215.9";7122159;"quetiapina cinfa® 150 mg";"60 comp. de liberación prolongada  EFG";"60";"SI";"SI";"";"4";"";"2";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;488.0;"672713.3";6727133;"quetiapina cinfa® 200 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;489.0;"672711.9";6727119;"quetiapina cinfa® 25 mg";"6 comp. recub. EFG";"6";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;490.0;"723624.5";7236245;"quetiapina cinfa® 25 mg";"60 comprimidos";"60";"SI";"si";"";"1";"";"1";"";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;491.0;"672714.0";6727140;"quetiapina cinfa® 300 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;492.0;"727707.1";7277071;"Rabeprazol Cinfa 20 mg";"56 comp. gastrorresistentes EFG";"56";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;493.0;"665626.6";6656266;"rabeprazol cinfa® 10 mg";"28 comp. gastrorresistentes EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"5a";"$00CCCCFF";"$00CCCCFF";
+C;494.0;"672540.5";6725405;"rabeprazol cinfa® 20 mg";"14 comp. gastrorresistentes EFG";"14";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;495.0;"672541.2";6725412;"rabeprazol cinfa® 20 mg";"28 comp. gastrorresistentes EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"3a";"$0091FFFF";"$0091FFFF";
+C;496.0;"740945.8";7409458;"raloxifeno cinfamed® 60 mg";"28 comp. recub. EFG";"28";"NO";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;497.0;"697525.1";6975251;"ramipril cinfa 2,5 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"7b AMARILLA";"$0091FFFF";"$0091FFFF";
+C;498.0;"670278.9";6702789;"ramipril cinfa® 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"redonda";"clwhite";"clwhite";
+C;499.0;"670264.2";6702642;"ramipril cinfa® 5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"rosa";"rosa";"rosa";"redonda";"$00CCCCFF";"$00CCCCFF";
+C;500.0;"708233.0";7111627;"rasagilina cinfa 1 mg";"30 comprimidos EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;501.0;"651142.8";6511428;"repaglinida cinfa® 0,5 mg";"90 comprimidos EFG";"90";"SI";"SI";"";"1";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;502.0;"651159.6";6511596;"repaglinida cinfa® 1 mg";"90 comprimidos EFG";"90";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;503.0;"651167.1";6511671;"repaglinida cinfa® 2 mg";"90 comprimidos EFG";"90";"SI";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;504.0;"672945.8";6729458;"risedronato cinfa 35 mg";"4 comp. recub. EFG";"4";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;505.0;"688381.5";6883815;"risedronato cinfa 75 mg";"2 comp. recub. EFG";"2";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"5A rosa";"$00CCCCFF";"$00CCCCFF";
+C;506.0;"661440.2";6614402;"risperidona cinfa® 1 mg/ml";"Solución oral. 30 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"amarillo claro";"amarillo claro";"amarillo claro";"GOTA AMARILLO CLARO";"$00CEFFFF";"$00CEFFFF";
+C;507.0;"661441.9";6614419;"risperidona cinfa® 1 mg/ml";"Solución oral. 100 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"amarillo claro";"amarillo claro";"amarillo claro";"GOTA AMARILLO CLARO";"$00CEFFFF";"$00CEFFFF";
+C;508.0;"651600.3";6512753;"risperidona cinfa® 6 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;509.0;"651279.1";6512791;"risperidona cinfamed® 1 mg";"20 comp. EFG";"20";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;510.0;"651350.7";6513507;"risperidona cinfamed® 1 mg";"60 comp. EFG";"60";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;511.0;"651277.7";6512777;"risperidona cinfamed® 3 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;512.0;"651373.6";6513736;"risperidona cinfamed® 3 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;513.0;"651381.1";6513811;"risperidona cinfamed® 6 mg";"60 comp. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;514.0;"709989.5";7099895;"Rivastigmina Cinfa Parches 13,3/24 h";"60 parches EFG";"60";"NO";"";"";"";"";"";"";"";"";"";"parche transdérmico";"";"";
+C;515.0;"709987.1";7099871;"Rivastigmina Cinfa Parches 4,6/24 h ";"30 parches EFG";"30";"NO";"";"";"";"";"";"";"";"";"";"parche transdérmico";"";"";
+C;516.0;"709988.8";7099888;"Rivastigmina Cinfa Parches 4,6/24 h ";"60 parches EFG";"60";"NO";"";"";"";"";"";"";"";"";"";"parche transdérmico";"";"";
+C;517.0;"709995.6";7099956;"Rivastigmina Cinfa Parches 9,5/24 h";"60 parches EFG";"60";"NO";"";"";"";"";"";"";"";"";"";"parche transdérmico";"";"";
+C;518.0;"664496.6";6644966;"rivastigmina cinfa® 2 mg/ml";"Solución oral. 120 ml EFG";"-";"NO";"NO";"NO";"NO";"-";"-";"";"amarillo claro";"amarillo claro";"amarillo claro";"GOTA AMARILLO CLARO";"$00CEFFFF";"$00CEFFFF";
+C;519.0;"696701.0";6967010;"rizatriptán flas cinfa 10 mg";"2 comp. bucodisp. EFG";"2";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;520.0;"696702.7";6967027;"rizatriptán flas cinfa 10 mg";"6 comp. bucodisp. EFG";"6";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;521.0;"660194.5";6601945;"ropinirol cinfa® 1 mg";"84 comp. EFG";"84";"SI";"SI";"";"1";"";"2";"NO";"verde";"verde";"verde";"";"$0090EE90";"$0090EE90";
+C;522.0;"660195.2";6601952;"ropinirol cinfa® 5 mg";"84 comp. EFG";"84";"SI";"SI";"";"1";"";"2";"NO";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;523.0;"707806.7";7078067;"rosuvastatina cinfa® 10 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"1";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;524.0;"707807.4";7078074;"rosuvastatina cinfa® 20 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"2";"1";"Rosa";"rosa";"Rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;525.0;"707805.0";7078050;"rosuvastatina cinfa® 5 mg";"28 comp. EFG";"28";"SI";"SI";"";"1";"";"1";"";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;526.0;"710912.9";7109129;"rupatadina® cinfa 10 mg";"20 comp. EFG";"20";"SI";"SI";"";"1";"";"1";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;527.0;"788703.4";7887034;"Sertralina  Cinfa 100 mg";"60 comp. Recub. EFG";"60";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;528.0;"786723.4";7867234;"Sertralina  Cinfa 50 mg";"60 comp. Recub. EFG";"60";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;529.0;"787390.7";7873907;"sertralina cinfa® 100 mg";"30 comp. Recub. EFG";"30";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;530.0;"786665.7";7866657;"sertralina cinfa® 50 mg";"30 comp. Recub. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;531.0;"707410.6";7074106;"Sildenafilo Cinfa 100 mg ";"4 comp masticables EFG";"4";"NO";"SI";"";"6";"";"3";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;532.0;"707411.3";7074113;"Sildenafilo Cinfa 100 mg ";"8 comp masticables EFG";"8";"NO";"SI";"";"6";"";"3";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;533.0;"707177.8";7071778;"Sildenafilo Cinfa 100 mg ";"4 comp EFG";"4";"SI";"SI";"";"6";"";"3";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;534.0;"707178.5";7071785;"Sildenafilo Cinfa 100 mg ";"8 comp EFG";"8";"SI";"SI";"";"6";"";"3";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;535.0;"707164.8";7071648;"Sildenafilo Cinfa 25 mg ";"4 comp EFG";"4";"SI";"SI";"";"6";"";"1";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;536.0;"707405.2";7074052;"Sildenafilo Cinfa 50 mg";" 8 comp masticables EFG";"8";"NO";"SI";"";"6";"";"2";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;537.0;"707172.3";7071723;"Sildenafilo Cinfa 50 mg";" 8 comp EFG";"8";"SI";"SI";"";"6";"";"2";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;538.0;"707404.5";7074045;"Sildenafilo Cinfa 50 mg ";"4 comp masticables EFG";"4";"NO";"SI";"";"6";"";"2";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;539.0;"707170.9";7071709;"Sildenafilo Cinfa 50 mg ";"2 comp EFG";"2";"SI";"SI";"";"6";"";"2";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;540.0;"707171.6";7071716;"Sildenafilo Cinfa 50 mg ";"4 comp EFG";"4";"SI";"SI";"";"6";"";"2";"";"azul";"azul";"azul";"";"$00FFC184";"$00FFC184";
+C;541.0;"726247.3";7262473;"Silodosina Cinfa 4 mg";" 30 cáps EFG";"30";"NO";"";"SI";"";"";"1";"";"Amarillo";"amarillo";"Amarillo";"";"$0091FFFF";"$0091FFFF";
+C;542.0;"726294.7";7262947;"Silodosina Cinfa 8 mg";" 30 cáps EFG";"30";"NO";"";"SI";"";"";"2";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;"";"673219.9";6732199;"Simvastatina cinfamed 10mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"0";"";"2";"";"naranja claro";"naranja claro";"naranja claro";"";"$0095CAFF";"$0095CAFF";
+C;"";"673221.2";6732212;"Simvastatina cinfamed 20mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"0";"";"2";"";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;"";"673218.2";6732182;"'Simvastatina cinfamed 40mg";"28 comp. Recub. EFG";"28";"SI";"SI";"";"0";"";"2";"";"rosa fuerte";"rosa fuerte";"rosa fuerte";"";"$005602B2";"$005602B2";
+C;537.0;"732026.5";7320265;"Sitagliptina Cinfamed® 100 mg ";" 28 comp. EFG";"28";"";"si";"";"1";"";"2";"NO";"beige";"beige";"beige";"";"$00AED7FF";"$00AED7FF";
+C;538.0;"732027.2";7320272;"Sitagliptina Cinfamed® 100 mg ";"56 comp. EFG";"56";"";"si";"";"1";"";"2";"NO";"beige";"beige";"beige";"";"$00AED7FF";"$00AED7FF";
+C;535.0;"732029.6";7320296;"Sitagliptina Cinfamed® 25 mg";" 28 comp. EFG";"28";"";"si";"";"1";"";"1";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;536.0;"732028.9";7320289;"Sitagliptina Cinfamed® 50 mg ";" 28 comp. EFG";"28";"";"si";"";"1";"";"1";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;539.0;"730606.1";7306061;"Sitagliptina/metformina Cinfamed 50/1000 mg ";"56 comp. EFG";"56";"";"si";"";"0";"";"2";"no";"rojo";"rojo";"rojo";"";"$000000FF";"$000000FF";
+C;543.0;"721371.0";7213710;"Solifenacina cinfa 10 mg";"30 comp";"30";"SI";"SI";"";"1";"";"";"";"Amarillo";"rojo";"Amarillo";"";"$000000FF";"$0091FFFF";
+C;544.0;"721372.7";7213727;"Solifenacina cinfa 5 mg";"30 comp";"30";"SI";"SI";"";"1";"";"";"";"Naranja muy claro";"ocre";"Naranja muy claro";"";"$005A93B9";"$0095CAFF";
+C;545.0;"716678.8";7160274;"Tadalafilo Cinfa 10 mg ";"4 comp recub EFG";"4";"SI";"SI";"";"0";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;546.0;"716679.5";7160281;"Tadalafilo Cinfa 10 mg ";"4 comp recub EFG";"4";"SI";"SI";"";"0";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;547.0;"716680.1";7160298;"Tadalafilo Cinfa 20 mg ";"8 comp recub EFG";"8";"SI";"SI";"";"0";"";"3";"SI";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;548.0;"716681.8";7160304;"Tadalafilo Cinfa 20 mg ";"12 comp recub EFG";"12";"SI";"SI";"";"0";"";"3";"SI";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;549.0;"716677.1";7160267;"Tadalafilo Cinfa 5 mg ";"28 comp recub EFG";"28";"SI";"SI";"";"0";"";"1";"";"Naranja oscuro";"Naranja oscuro";"Naranja oscuro";"";"$004080FF";"$004080FF";
+C;550.0;"849935.9";8499359;"tamoxifeno cinfa® 10 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;551.0;"850081.9";8500819;"tamoxifeno cinfa® 10 mg";"100 comp. EFG";"100";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;552.0;"864587.9";8645879;"tamoxifeno cinfa® 20 mg";"30 comp. EFG";"30";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;553.0;"864678.4";8646784;"tamoxifeno cinfa® 20 mg";"60 comp. EFG";"60";"NO";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;554.0;"652848.8";6528488;"tamsulosina cinfa® 0,4 mg";"30 cápsulas duras de liberación modificada EFG";"30";"SI";"NO";"SI";"4";"";"2";"";"naranja";"verde caqui";"naranja/verde caqui";"";"$00B0D8E0";"$006FBEFF";
+C;555.0;"681291.4";6812914;"tamsulosina cinfa® 0,4 mg";"30 comprimidos de liberación prolongada EFG";"30";"NO";"SI";"";"4";"";"2";"NO";"blanco";"blanco";"blanco";"18a (color blanco)";"clwhite";"clwhite";
+C;556.0;"698241.9";6982419;"telmisartán cinfa 20 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;557.0;"698242.6";6982426;"telmisartán cinfa 40 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"7b";"clwhite";"clwhite";
+C;558.0;"698243.3";6982433;"telmisartán cinfa 80 mg";"28 comprimidos EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"blanco";"blanco";"blanco";"11b";"clwhite";"clwhite";
+C;559.0;"700022.8";7000228;"telmisartán/hidroclorotiazida cinfamed 40 mg/12,5 mg";"28 comp. recub. con película  EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;560.0;"700029.7";7000297;"telmisartán/hidroclorotiazida cinfamed 80 mg/12,5 mg";"28 comp. recub. con película  EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;561.0;"700037.2";7000372;"telmisartán/hidroclorotiazida cinfamed 80 mg/25 mg";"28 comp. recub. con película  EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;562.0;"659517.6";6595176;"terazosina cinfa® 2 mg";"15 comp. EFG";"15";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;563.0;"659518.3";6595183;"terazosina cinfa® 5 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;564.0;"720672.9";7206729;"ticlopidina cinfa® 250 mg";"50 comp. recub. EFG";"50";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;565.0;"697213.7";6972137;"tolterodina neo cinfa 4 mg";"28 cápsulas duras de liberación prolongada EFG";"28";"SI";"NO";"SI";"4";"";"2";"SI";"azul oscuro";"azul oscuro";"azul oscuro";"2c azul";"$008B0000";"$008B0000";
+C;566.0;"659618.0";6596180;"topiramato cinfa® 100 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;567.0;"659620.3";6596203;"topiramato cinfa® 200 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"4";"";"2";"NO";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;568.0;"659610.4";6596104;"topiramato cinfa® 25 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;569.0;"659612.8";6596128;"topiramato cinfa® 50 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;570.0;"650126.9";6501269;"torasemida cinfa® 10 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;571.0;"650125.2";6501252;"torasemida cinfa® 5 mg";"30 comp. EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;572.0;"935510.4";9355104;"tramadol cinfa® 50 mg";"20 cápsulas EFG";"20";"SI";"NO";"SI";"4";"";"2";"";"naranja";"verde caqui";"naranja/verde caqui";"14c (ambos colores un pelín más claros)";"$00B0D8E0";"$006FBEFF";
+C;573.0;"935528.9";9355289;"tramadol cinfa® 50 mg";"60 cápsulas EFG";"60";"SI";"NO";"SI";"4";"";"2";"";"naranja";"verde caqui";"naranja/verde caqui";"14c (ambos colores un pelín más claros)";"$00B0D8E0";"$006FBEFF";
+C;574.0;"700313.7";7003137;"Tramadol/paracetamol Cinfa 75 mg/ 650 mg ";"20 comp rec";"20";"SI";"SI";"";"4";"";"1";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;575.0;"700314.4";7003144;"Tramadol/paracetamol Cinfa 75 mg/ 650 mg ";"60 comp rec";"60";"SI";"SI";"";"4";"";"1";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;576.0;"683650.7";6836507;"tramadol/paracetamol cinfa® 37,5 mg/325 mg";"20 comp. recub. EFG";"20";"SI";"SI";"";"1";"";"3";"NO";"amarillo";"amarillo";"amarillo";"5a";"$0091FFFF";"$0091FFFF";
+C;577.0;"683651.4";6836514;"tramadol/paracetamol cinfa® 37,5 mg/325 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;578.0;"704250.1";7042501;"tramadol/paracetamol cinfa® 37,5 mg/325 mg";"20 comp. efervescentes EFG";"20";"NO";"SI";"";"1";"";"3";"NO";"blanco";"blanco";"blanco";"9a (como acetilcisteína)";"clwhite";"clwhite";
+C;579.0;"656428.8";6564288;"triflusal cinfa® 300 mg";"50 cápsulas duras EFG";"50";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;580.0;"658516.0";6585160;"triflusal cinfa® 300 mg";"30 cápsulas duras EFG";"30";"SI";"NO";"SI";"4";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;581.0;"656481.3";6564813;"trimetazidina cinfa® 20 mg";"60 comp. recub. EFG";"60";"SI";"SI";"";"1";"";"2";"NO";"rojo";"rojo";"rojo";"";"$000000FF";"$000000FF";
+C;582.0;"661976.6";6619766;"valsartan cinfa ® 160 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;583.0;"677368.0";6773680;"valsartan cinfa ® 320 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"marron";"marron";"marron";"";"$0088A7C6";"$0088A7C6";
+C;584.0;"661973.5";6619735;"valsartan cinfa ® 40 mg";"14 comp. Recub. EFG";"14";"SI";"SI";"";"1";"";"2";"SI";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;585.0;"661974.2";6619742;"valsartan cinfa ® 80 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"SI";"naranja";"naranja";"naranja";"";"$006FBEFF";"$006FBEFF";
+C;587.0;"732600.7";7326007;"valsartan cinfa® 160 mg";"56 comp. recub. EFG";"56";"";"si";"";"0";"";"2";"si";"ocre";"ocre";"ocre";"";"$005A93B9";"$005A93B9";
+C;586.0;"732599.4";7325994;"valsartan cinfa® 80 mg ";"56 comp. recub. EFG";"56";"";"si";"";"1";"";"1";"si";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;588.0;"672809.3";6728093;"valsartan/hctz cinfa ® 160/12,5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rojo";"rojo";"rojo";"";"$000000FF";"$000000FF";
+C;589.0;"672807.9";6728079;"valsartan/hctz cinfa ® 160/25 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"marron";"marron";"marron";"";"$0088A7C6";"$0088A7C6";
+C;590.0;"672810.9";6728109;"valsartan/hctz cinfa ® 80/12,5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"1";"";"2";"NO";"rosa";"rosa";"rosa";"";"$00CCCCFF";"$00CCCCFF";
+C;591.0;"687441.7";6874417;"valsartan/hctz cinfamed ® 320/12,5 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"rosa";"rosa";"rosa";"11 b rosa";"$00CCCCFF";"$00CCCCFF";
+C;592.0;"687498.1";6874981;"valsartan/hctz cinfamed ® 320/25 mg";"28 comp. recub. EFG";"28";"SI";"SI";"";"4";"";"2";"SI";"amarillo";"amarillo";"amarillo";"11 b amarillo";"$0091FFFF";"$0091FFFF";
+C;593.0;"714890.6";7148906;"vardenafilo cinfa® 10 mg";"2 comp. EFG";"2";"SI";"SI";"";"1";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;594.0;"714892.0";7148920;"vardenafilo cinfa® 10 mg";"8 comp. EFG";"8";"SI";"SI";"";"1";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;595.0;"720007.9";7200079;"vardenafilo cinfa® 10 mg";"4 comp. bucodispersables EFG";"4";"NO";"SI";"";"0";"";"1";"";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;596.0;"714894.4";7148944;"vardenafilo cinfa® 20 mg";"4 comp. EFG";"4";"SI";"SI";"";"1";"";"2";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;597.0;"714888.3";7148883;"vardenafilo cinfa® 5 mg";"4 comp. EFG";"4";"SI";"SI";"";"1";"";"1";"";"Naranja";"naranja";"Naranja";"";"$006FBEFF";"$006FBEFF";
+C;599.0;"659569.5";6596616;"venlafaxina retard cinfa® 75 mg";"30 cápsulas de liberación prolongada EFG";"30";"SI";"NO";"SI";"4";"";"2";"";"amarillo";"blanco";"amarillo/blanco";"";"clwhite";"$0091FFFF";
+C;98.0;"659660.9";6596609;"Venlafaxina retard cinfamed EFG 150 mg";"30 cápsulas liberación prolongada EFG";"30";"SI";"";"SI";"4";"";"2";"1";"Blanco ";" Marron";"Blanco / Marron";"";"$0088A7C6";"clwhite";
+C;600.0;"731199.7";7311997;"Vildagliptina Cinfa 50 mg ";"28 comp EFG";"28";"";"si";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;601.0;"731200.0";7312000;"Vildagliptina Cinfa 50 mg ";"56 comp EFG";"56";"";"si";"";"";"";"";"";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;603.0;"729916.5";7299165;"Vildagliptina/metformina cinfa 50/1000 mg ";" 60 comp. rec. EFG";"60";"";"si";"";"";"";"";"";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;602.0;"729915.8";7299158;"Vildagliptina/metformina cinfa 50/850 mg";" 60 comp. rec. EFG";"60";"";"si";"";"";"";"";"";"amarillo";"amarillo";"amarillo";"";"$0091FFFF";"$0091FFFF";
+C;604.0;"711170.2";7111702;"ziprasidona cinfa 20 mg";"56 cápsulas duras EFG";"56";"SI";"";"SI";"4";"";"1";"1";"Blando ";" Azul";"Blando / Azul";"";"$00FFC184";"clwhite";
+C;605.0;"711172.6";7111726;"ziprasidona cinfa 40 mg";"56 cápsulas duras EFG";"56";"SI";"";"SI";"4";"";"1";"1";"Azul";"azul";"Azul";"";"$00FFC184";"$00FFC184";
+C;606.0;"711173.3";7111733;"ziprasidona cinfa 60 mg";"56 cápsulas duras EFG";"56";"SI";"";"SI";"4";"";"1";"1";"Blanco";"blanco";"Blanco";"";"clwhite";"clwhite";
+C;607.0;"711169.6";7111696;"ziprasidona cinfa 80 mg";"56 cápsulas duras EFG";"56";"SI";"";"SI";"4";"";"2";"1";"Blanco ";" Azul";"Blanco / Azul";"";"$00FFC184";"clwhite";
+C;608.0;"681951.7";6819517;"zolmitriptan flas cinfa® 2,5 mg";"6 comp. bucodispersables EFG";"6";"NO";"SI";"";"1";"";"2";"NO";"blanco";"blanco";"blanco";"9a";"clwhite";"clwhite";
+C;609.0;"681952.4";6819524;"zolmitriptan flas cinfa® 5 mg";"6 comp. bucodispersables EFG";"6";"NO";"SI";"";"4";"";"3";"NO";"blanco";"blanco";"blanco";"13a  (algo más pequeña)";"clwhite";"clwhite";
+C;610.0;"828806.9";8288069;"zolpidem cinfa® 10 mg";"30 comp. Recub.EFG";"30";"SI";"SI";"";"1";"";"2";"SI";"blanco";"blanco";"blanco";"";"clwhite";"clwhite";
+C;611.0;"710917.4";7109174;"zonisamida";"25 mg";"14";"SI";"NO";"SI";"4";"";"2";"Si";"Blanca";"blanco";"Blanca";"";"clwhite";"clwhite";
+C;612.0;"710918.1";7109181;"zonisamida";"50 mg";"28";"SI";"NO";"SI";"4";"";"2";"SI";"Blanca ";" Gris";"Blanca / Gris";"";"$00808080";"clwhite";
+C;613.0;"710919.8";7109198;"zonisamida";"100 mg";"56";"Si";"NO";"SI";"4";"";"2";"SI";"Blanca ";" Roja";"Blanca / Roja";"";"$000000FF";"clwhite";

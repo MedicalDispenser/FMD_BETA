@@ -1,0 +1,323 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Noticias</title>
+<base target="_blank">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet"
+        type="text/css">
+
+        <link href="https://fonts.cdnfonts.com/css/walkway-black" rel="stylesheet">		
+<style>
+body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        background-color: #f0f0f0;
+}
+.noticias{
+        width: 90%;
+        max-width: 600px; 
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        box-sizing: border-box;
+}
+.noticia_cinfa{
+        background-color: white;
+        
+        header{
+                background-color: #f3d9ff
+        }
+        p.pHola {
+                font-weight: 500;
+                font-size: 20px;
+                color: #008083;
+                margin-bottom: 8px;
+       }
+       p.pCentroNegrita {
+               margin-left: 70px;
+               margin-right: 70px;
+               margin-bottom: 30px;
+               font-weight: bold;
+               font-size: 16px;
+               text-align: center;
+        }
+        a.botonVideoEstilo {
+                display: block;
+                margin: 0 auto;
+                width: fit-content;
+        }
+         table.tabla2 {
+                margin-bottom: 10px;
+         }
+        .tabla2 p {
+                padding: 0px 0px 10px 0px;
+                margin-left: 36px;
+        }
+        table.tabla2 img {
+                max-width: 250px;
+        }
+        .tabla2 td {
+                padding: 0px;
+         }
+        .tablaConImagen1 .pNuevoT {
+                color: green;
+                padding: 0px;
+                font-weight: 600;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-size: 10px;
+       }
+       .tablaConImagen2 p {
+                background-color: red;
+                padding: 0px;
+                width: 140%;
+       }
+       a {
+                color: #008083;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600;
+                text-align: left;
+                font-size: 12px;
+                line-height: 24px;
+                text-decoration: none;
+        }
+        img.piePagina {
+                margin-top: 30px;
+        }
+        img.tablas {
+                margin-top: 30px;
+                margin-bottom:30px;
+        }
+        img.cabecera {
+                margin-top: 0px;
+                margin-bottom: 33px;
+        }
+        img.separadorNoticia{
+                margin-top: 40px;
+                margin-bottom:30px;
+        }
+        img.bottonNovedades{
+                max-width: 125px;
+                margin-top: 40px;
+                margin-bottom: 25px;
+        }
+        table {
+                margin-bottom: 30px;
+                table-layout: fixed;
+        }
+        .tablaInfo{
+                padding-left: 36px;
+        }
+        .tabla1 th:first-child {
+                padding-left: 40px;
+        }
+        .tabla1 th:nth-child(n+2) {
+               padding-right: 90px;
+        }
+        .tabla1 td:nth-child(n+2) {
+               padding-left:1px;
+        }
+        th{
+                color: #008083;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-weight: 600;
+                text-align: left;
+                font-size: 18px;
+                line-height: 24px;
+        }
+        td {
+                padding: 0px 30px 10px 30px;
+                color: black;
+                padding-left: 40px;
+                padding-right: 40px;
+                padding-bottom: 0px;
+                font-weight: 600;
+                text-align: left;
+                font-family: 'Source Sans Pro', Arial, sans-serif;
+                font-size: 12px;
+                vertical-align: top;
+        }
+        p img[alt="Cabecera"]{
+                top: 0; 
+                left: 0; 
+                padding: 0;
+                margin: 0;
+        }
+        p img[alt="Cabecera2"] {
+                top: 0;
+                left: 0;
+                padding: 0;
+                margin-bottom: 20px;
+                margin-top: 30px;
+        }
+        p img[alt="icono"] {
+               width: 6%;
+               margin-bottom: 8px;
+        }
+        p.pNuevoT {
+               font-weight: 600;
+               text-align: left;
+               font-family: 'Source Sans Pro', Arial, sans-serif;
+               font-size: 14px;
+               margin: 0px;
+               margin-top: 5px;
+               padding-bottom:20px;
+        }
+        p.pNuevo{
+               font-weight: 600;
+               font-size: 12px;
+               margin-bottom: 50px;
+        }
+        h1 {
+               margin-top: 0px;
+               margin-bottom: 35px; 
+               color: #008083; 
+               font-weight: 700; 
+               text-align: center;
+               font-family:'Walkway Black',Arial,sans-serif;
+               font-size:22px;
+               line-height:24px;
+               margin-left: 45px;
+               margin-right: 45px;
+      }
+      p{
+              color:black;
+              padding-left: 40px;
+              padding-right: 40px;
+              padding-bottom: 10px;
+              font-weight: 600; 
+              text-align: left;
+              font-family:'Source Sans Pro',Arial,sans-serif;
+              font-size:12px; 
+              margin: 0px;
+      }
+      h2{
+              text-align: left;
+              margin-top: 40px;
+              color: #008083;
+              font-family: 'Walkway Black', Arial, sans-serif;
+              font-size: 18px;
+              line-height: 24px;      
+              margin-left:42px;
+              margin-bottom: 30px;
+      }
+      strong {
+              color: #008083;
+              font-family: 'Source Sans Pro', Arial, sans-serif;
+              font-size: 12px;
+              line-height: 24px;
+             margin-top: 10px;
+      }
+      hr{
+             margin-top:0px;
+      }
+      .barraNuevaNoticia{
+             height: 1px;
+             background-color: #008083;
+       }
+}
+.noticia{
+        padding: 20px;
+        font-family: arial;
+        p{
+                color:black;
+                text-align: justify;
+        }
+}
+hr{
+  margin-top: 50px; 
+}
+h1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-align: left;
+    text-justify: inter-word;
+}
+h2 {
+    color: black;
+    text-align: left;
+    text-justify: inter-word;
+    margin-top: 35px;
+}
+em {
+    color: grey;
+    display: block;
+    text-align: right;
+}
+p {
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    font-size: 16px;
+    text-justify: center;
+}
+li, ul {
+    text-align: left;
+    margin-left: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin: auto;
+    vertical-align: middle;
+}
+footer{
+  padding: 2px;
+  margin-bottom:10px;
+}
+#warning {
+    display: none;
+    color: red;
+    font-size: 20px;
+}
+</style>
+
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-HQH703VBPZ"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments)};
+		  gtag('js', new Date());
+		  gtag('config', 'G-HQH703VBPZ', {page_path: '/pagina-noticias'});
+		</script>
+</head>
+<body>
+<article class="noticias">
+<article id="noticia_7" class="noticia">
+<header></header>
+<h2>Etiquetas braille-Etiquetas con tacto</h2>
+
+
+<p>Enfrentarse a diario al reto de interpretar, es difícil pero cuando se trata de algo tan sensible como la medicación, el resto es doble.</p>
+
+
+<p>En Fagor Healthcare hemos desarrollado unas etiquetas que facilitan a las personas invidentes la utilización de nuestro blíster mediante el uso de lectura braille. Podrán identificar tanto el día de la semana (Lu-Do) como la toma correspondiente (desayuno, comida, cena y noche) y todo ello siempre preparado y supervisado por su farmacia de confianza.</p>
+
+
+<p><img src="https://github.com/MedicalDispenser/FMD/blob/main/Source/03_img_021.png?raw=true" alt="Noticias"/></p>
+
+
+<p>¿Te animas a probarlo y contarnos tu experiencia? Te dejamos un vídeo para poder verlo: <a href="https://www.youtube.com/watch?v=l5HY2TF4H_o">Ver en YouTube</a></p>
+
+
+<p>Para cualquier consulta sobre estas u otras cuestiones, puede consultar en nuestros canales habituales:</p>
+
+
+<ul>
+<li>+34 943 25 24 32</li>
+</ul>
+
+<ul>
+<li><a href="info@fagorhealthcare.com">info@fagorhealthcare.com</a></li>
+</ul>
+
+</article>
+</body> </html>

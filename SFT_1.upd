@@ -1,38 +1,38 @@
-0;Albúmina;36,00;56,00;g/L
-0;Alfa - 1 globulina;1,90;4,20;g/L
-0;Alfa - 2 globulina;4,60;10,00;g/L
+0;Albúmina;56,00;36,00;g/L
+0;Alfa - 1 globulina;4,20;1,90;g/L
+0;Alfa - 2 globulina;10,00;4,60;g/L
 0;Beta-globulina;5,10;11,60;g/L
-0;Gamma-globulina;7,20;16,0;g/L
-0;Cociente Albúmina/Globulina;1,25;1,95;g/L
-0;Glucosa;4,11;5,89;mmol/L
-0;Urato;142,8;339,2;µmol/L
-0;Creatinina;44;80;µmol/L
+0;Gamma-globulina;16,0;7,20;g/L
+0;Cociente Albúmina/Globulina;1,95;1,25;g/L
+0;Glucosa;5,89;4,11;mmol/L
+0;Urato;339,2;142,8;µmol/L
+0;Creatinina;80;44;µmol/L
 0;Bilirubina;0,0;15,0;µmol/L
-0;Proteína;64;83;g/L
-0;Alanina-aminotransferasa;0,00;0,55;µkat/L
-0;Colesterol;;5,20;mmol/L
-0;Ferritina;15;150;ng/mL
-0;Immunoglobulina A;0,70;4,00;g/L
-0;Immunoglobulina G;7,00;16,00;g/L
-0;Immunoglobulina M;0,40;2,30;g/L
-0;Hematíes Hombre;4,5;5,5;x 10^12/L
-0;Hematíes Mujer;3,8;4,8;x 10^12/L
-0;Hemoglobina Hombre;130;170;g/L
-0;Hemoglobina Mujer;120;150;g/L
-0;Hematocrito Hombre;0,40;0,50;L/L
-0;Hematocrito Mujer;0,36;0,46;L/L
-0;VCM;83;101;fL
-0;HCM;27;32;pg
-0;CHCM;315;345;g/L
-0;ADE;39;46;fL
-0;Plaquetas;150;410;x 10^9/L
-0;Leucocitos;4,0;10,0;x 10^9/L
-0;Neutrófilos;2,0;7,0;x 10^9/L
-0;Linfocitos;1,0;3,0;x 10^9/L
-0;Monocitos;0,2;1,0;x 10^9/L
-0;Eosinófilos;0,02;0,5;x 10^9/L
-0;Basófilos;0,02;0,1;x 10^9/L
-0;Reticulocitos;50;100;x 10^9/L
+0;Proteína;83;64;g/L
+0;Alanina-aminotransferasa;0,55;0,00;µkat/L
+0;Colesterol;6,2;5,20;mmol/L
+0;Ferritina;150;15;ng/mL
+0;Immunoglobulina A;4,00;0,70;g/L
+0;Immunoglobulina G;16,00;7,00;g/L
+0;Immunoglobulina M;2,30;0,40;g/L
+0;Hematíes Hombre;5,5;4,5;x 10^12/L
+0;Hematíes Mujer;4,8;3,8;x 10^12/L
+0;Hemoglobina Hombre;170;130;g/L
+0;Hemoglobina Mujer;150;120;g/L
+0;Hematocrito Hombre;0,50;0,40;L/L
+0;Hematocrito Mujer;0,46;0,36;L/L
+0;VCM;101;83;fL
+0;HCM;32;27;pg
+0;CHCM;345;315;g/L
+0;ADE;46;39;fL
+0;Plaquetas;410;150;x 10^9/L
+0;Leucocitos;10,0;4,0;x 10^9/L
+0;Neutrófilos;7,0;2,0;x 10^9/L
+0;Linfocitos;3,0;1,0;x 10^9/L
+0;Monocitos;1,0;0,2;x 10^9/L
+0;Eosinófilos;0,5;0,02;x 10^9/L
+0;Basófilos;0,1;0,02;x 10^9/L
+0;Reticulocitos;100;50;x 10^9/L
 1;Facilitar IPM
 1;Ofrecer educación sanitaria
 1;Derivar a otro SPFA

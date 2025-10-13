@@ -1,13 +1,13 @@
 0;Albúmina;56,00;36,00;g/L
 0;Alfa - 1 globulina;4,20;1,90;g/L
 0;Alfa - 2 globulina;10,00;4,60;g/L
-0;Beta-globulina;5,10;11,60;g/L
+0;Beta-globulina;11,60;5,10;g/L
 0;Gamma-globulina;16,0;7,20;g/L
 0;Cociente Albúmina/Globulina;1,95;1,25;g/L
 0;Glucosa;5,89;4,11;mmol/L
 0;Urato;339,2;142,8;µmol/L
 0;Creatinina;80;44;µmol/L
-0;Bilirubina;0,0;15,0;µmol/L
+0;Bilirubina;15,0;0,0;µmol/L
 0;Proteína;83;64;g/L
 0;Alanina-aminotransferasa;0,55;0,00;µkat/L
 0;Colesterol;6,2;5,20;mmol/L
